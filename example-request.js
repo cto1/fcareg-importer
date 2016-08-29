@@ -2,11 +2,11 @@ var request = require('request');
 var fs = require('fs');
 var cheerio = require('cheerio');
 
-request('https://register.fca.org.uk/shpo_searchresultspage?search=Grove&TOKEN=5zq3mgf0d8qk', function (error, response, body) {
+request('https://register.fca.org.uk/shpo_searchresultspage?search=Grove+Capital&TOKEN=5zq3mgf0d8qk', function (error, response, body) {
   if (!error && response.statusCode == 200) {
    // console.log(body); // Show the HTML for the Google homepage. 
 
-    fs.writeFile('output.json', " "), function(err){
+    fs.writeFile('output.json', body), function(err){
 
          console.log('File successfully written! - Check your project directory for the output.json file');
 
@@ -20,9 +20,14 @@ request('https://register.fca.org.uk/shpo_searchresultspage?search=Grove&TOKEN=5
 
     console.log($);
 
-    var tag_to_find = ".SearchResults_wrapper";
+    var context_to_find = ".SearchResultsContainer";
+    var tag_to_find = ".ResultName";
 
-    $(tag_to_find).filter(function(){
+    var name = $(tag_to_find, context_to_find).text();
+    console.log("found : "+ name);
+
+
+    $(tag_to_find, context_to_find).filter(function(){
         console.log("found : "+ tag_to_find);
         
     });
