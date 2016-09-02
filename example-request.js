@@ -24,13 +24,17 @@ request('https://register.fca.org.uk/shpo_searchresultspage?search=Grove+Capital
     var tag_to_find = ".ResultName";
 
     var name = $(tag_to_find, context_to_find).text();
-    console.log("found : "+ name);
+    console.log("found : "+ name + "\n");
+
+    var auth_flag_tag = ".CurrentStatus Authorised Unauthorised search_popover";
+    var auth_status = $(auth_flag_tag, context_to_find).text();
+    console.log("found : "+ auth_status);
 
 
-    $(tag_to_find, context_to_find).filter(function(){
-        console.log("found : "+ tag_to_find);
+    // $(tag_to_find, context_to_find).filter(function(){
+    //     console.log("found : "+ tag_to_find);
         
-    });
+    // });
     // We'll use the unique header class as a starting point.
 
     $('.SearchResults_wrapper').filter(function(){

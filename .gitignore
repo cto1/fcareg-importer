@@ -1,3 +1,4 @@
 node_modules
 mochaTest.log
 credentials.js
+output.json
