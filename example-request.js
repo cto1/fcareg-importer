@@ -2,7 +2,7 @@ var request = require('request');
 var fs = require('fs');
 var cheerio = require('cheerio');
 
-request('https://register.fca.org.uk/shpo_searchresultspage?search=Grove+Capital&TOKEN=5zq3mgf0d8qk', function (error, response, body) {
+request('https://register.fca.org.uk/shpo_searchresultspage?FSF=1&FSF%7CAUF=1&search=Grove+Capital&TOKEN=5zq3mgf0d8qk', function (error, response, body) {
   if (!error && response.statusCode == 200) {
    // console.log(body); // Show the HTML for the Google homepage. 
 

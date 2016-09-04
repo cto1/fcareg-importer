@@ -1,0 +1,1017 @@
+
+<!DOCTYPE HTML>
+<html style="display:none !important;"><head><script src="/static/111213/js/perf/stub.js" type="text/javascript"></script><script src="/faces/a4j/g/3_3_3.Finalorg.ajax4jsf.javascript.AjaxScript?rel=1472852958000" type="text/javascript"></script><script src="/static/111213/js/functions.js" type="text/javascript"></script><script src="/jslibrary/1467322630000/sfdc/main.js" type="text/javascript"></script><script src="/jslibrary/jslabels/1472854274000/en_US.js" type="text/javascript"></script><script src="/static/111213/desktop/desktopAjax.js" type="text/javascript"></script><script src="/static/111213/js/picklist.js" type="text/javascript"></script><script src="/resource/1430210065000/ShPo_RegisterPortalResources/ShPo_RegisterPortalResources/js/jquery.min.js" type="text/javascript"></script><script src="/resource/1430210065000/ShPo_Bootstrap/ShPo_Bootstrap/js/bootstrap.min.js" type="text/javascript"></script><script src="/resource/1430210065000/ShPo_Bootstrap/ShPo_Bootstrap/js/offcanvas.js" type="text/javascript"></script><script src="/resource/1434744780000/ShPo_BunnyfootResources/ShPo_BunnyfootResources/js/modernizr.js" type="text/javascript"></script><script src="/resource/1434744780000/ShPo_RegisterScripts" type="text/javascript"></script><script src="/resource/1430210065000/ShPo_jQueryDataTable/ShPo_jQueryDataTable/jquery.dataTables.js" type="text/javascript"></script><script src="/resource/1426882958000/ShPo_JQueryTypeAhead/ShPo_JQueryTypeAhead/js/jquery.typeahead.min.js" type="text/javascript"></script><script src="/jslibrary/1466812160000/sfdc/VFState.js" type="text/javascript"></script><link class="user" href="/sCSS/37.0/sprites/1470854292000/Theme3/default/gc/zen-componentsCompatible.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1470854292000/Theme3/default/gc/elements.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1470854292000/Theme3/default/gc/common.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1471979298000/Theme3/gc/dStandard.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1471979298000/Theme3/00Db0000000K8yP/005b0000001h4fl/gc/dCustom0.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1471979298000/Theme3/00Db0000000K8yP/005b0000001h4fl/gc/dCustom1.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1471979298000/Theme3/00Db0000000K8yP/005b0000001h4fl/gc/dCustom2.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1471979298000/Theme3/00Db0000000K8yP/005b0000001h4fl/gc/dCustom3.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1471979298000/Theme3/00Db0000000K8yP/005b0000001h4fl/gc/dCustom4.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1470854292000/Theme3/default/gc/extended.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/37.0/sprites/1470854292000/Theme3/default/gc/setup.css" rel="stylesheet" type="text/css" /><link class="user" href="/resource/1430210065000/ShPo_Bootstrap/ShPo_Bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" /><link class="user" href="/resource/1430210065000/ShPo_Bootstrap/ShPo_Bootstrap/css/offcanvas.css" rel="stylesheet" type="text/css" /><link class="user" href="/resource/1430210065000/ShPo_Bootstrap/ShPo_Bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css" /><link class="user" href="/resource/1434744780000/ShPo_BunnyfootResources/ShPo_BunnyfootResources/resources/inline.css" rel="stylesheet" type="text/css" /><link class="user" href="/resource/1426882958000/ShPo_JQueryTypeAhead/ShPo_JQueryTypeAhead/css/jquery.typeahead.css" rel="stylesheet" type="text/css" /><link class="user" href="/resource/1434744780000/ShPo_BunnyfootResources/ShPo_BunnyfootResources/css/main.css" rel="stylesheet" type="text/css" /><link class="user" href="/resource/1434744780000/ShPo_BunnyfootResources/ShPo_BunnyfootResources/css/ie8.css" rel="stylesheet" type="text/css" /><link class="user" href="/resource/1434744780000/ShPo_BunnyfootResources/ShPo_BunnyfootResources/css/css-fixes.css" rel="stylesheet" type="text/css" /><script src="/jslibrary/1466812160000/sfdc/NetworkTracking.js" type="text/javascript"></script><script>try{ NetworkTracking.init('/_ui/networks/tracking/NetworkTrackingServlet', 'network', '066b0000001Vq9D'); }catch(x){}try{ NetworkTracking.logPageView();}catch(x){}</script><script type="text/javascript">
+//<![CDATA[
+try{(function(){var w=self,l,p,o;if(w&&top){for(;w!==top&&(p=w.parent)&&p!==w&&(o=p.location)&&o.protocol===(l=w.location).protocol&&(o.host===l.host||(p.document&&p.document.domain===w.document.domain));w=p);if(w!==top)throw "";}({f:function(){document.documentElement?document.documentElement.style.display="":(!this.a&&(this.a=10),this.a<1E5&&(window.sfdcRetryShowWindow=this)&&setTimeout("sfdcRetryShowWindow.f()",this.a),this.a*=2)}}.f())})();}catch(e){if(top!==self)top.location=location;else throw e;}//]]></script></head><body>
+     <html lang="en">
+       <head>
+<meta HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE" />
+<meta HTTP-EQUIV="Expires" content="Mon, 01 Jan 1990 12:00:00 GMT" />
+            <title>Financial Conduct Authority</title>
+            <meta charset="utf-8" />
+            <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+            
+            <meta content="" name="description" />
+            <meta name="author" />  
+           
+           <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+              ga('create', 'UA-55443137-1', 'auto');
+              ga('send', 'pageview');
+            
+            </script>
+            </head>
+        
+        <body bottommargin="0" leftmargin="0" onload="window.onerror = function(message, file, line) {var msg = '[' + line + '] ' + message;ga('send', 'event', 'Exception', file, msg);}" rightmargin="0" topmargin="0">
+            <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="http://www.fsa.gov.uk">FCA Home</a>
+                    </div>
+                    <div class="collapse navbar-collapse navbar-right">
+                        <ul class="nav navbar-nav">
+                            <li><a href="http://www.fsa.gov.uk/site-info/accessibility">ACCESSIBILITY</a></li>
+                            <li><a href="http://www.fsa.gov.uk//site-info/contact">CONTACT US</a></li>
+                            <li><a alt="CONTACT US" href="http://www.fcacareers.org.uk/" target="_blank" title="CAREERS">CAREERS</a></li>
+                            <li><a href="http://www.fsa.gov.uk/cymraeg">CYMRAEG</a></li>
+                            <li><a alt="FCA HANDBOOK" href="http://fshandbook.info/FS/index.jsp" target="_blank" title="FCA HANDBOOK">FCA HANDBOOK</a></li>
+                            <li class="active"><a alt="FINANCIAL SERVICES REGISTER" href="http://www.fsa.gov.uk/register/home.do" title="FINANCIAL SERVICES REGISTER">FINANCIAL SERVICES REGISTER</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div id="masterHeader">
+                    <a href="ShPo_HomePage" target="blank"><img src="/resource/1434744780000/ShPo_BunnyfootResources/ShPo_BunnyfootResources/images/fcalogo.jpg" alt="fca" height="66" width="126" /></a>
+                    <a href="http://www.bankofengland.co.uk/pra/pages/default.aspx" target="blank"><img src="/resource/1434744780000/ShPo_BunnyfootResources/ShPo_BunnyfootResources/images/bankofenglandlogo.jpg" alt="bank of england - prudential regulation authority" height="66" width="355" /></a> 
+                    <p>Provided by the Financial Conduct Authority</p>
+                    <span class="fsr"><a class="headerhomelink" href="ShPo_HomePage">The Financial Services Register</a></span>
+
+                </div><span id="j_id0:j_id1:j_id31">
+            <div class="breadcrumb">
+                <a href="ShPo_Homepage">Home</a>
+                <span>&gt;</span>
+                <span class="current">Search results</span>
+                <span>&gt;</span>
+                <span class="current">Grove Capital</span>
+            </div></span> 
+                <div class="RegisterSearchContainer">
+                <section id="RegisterSearch"><span id="j_id0:j_id1:j_id35">
+    
+    
+	<script>
+  $(function(){
+   $('input[id $= "_HP"]')
+             //.attr('placeholder', 'Please fill in only when you are not a human.')
+            .hide()
+  });
+
+        // FRT-534 ggrandea May5.2016   START  - toggle display of 'Advanced Search' and 'Quick Lists'
+        $(document).ready(function(){
+
+            $("#QuickListsCollapse").on("show.bs.collapse", function(){
+                if( hasClass(document.getElementById("AdvancedSearchCollapse"), 'in') ){
+                    $("#AdvancedSearchCollapse").collapse('hide');
+                    $(".AdvancedSearchCollapse").addClass('collapsed');
+                }
+            });
+
+            $("#AdvancedSearchCollapse").on("show.bs.collapse", function(){
+                if( hasClass(document.getElementById("QuickListsCollapse"), 'in') ){
+                    $("#QuickListsCollapse").collapse('hide');
+                    $(".QuickListsCollapse").addClass('collapsed');
+                }
+            });
+
+        });
+
+        function hasClass(element, cls) {
+            return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
+        }
+        // FRT-534 END
+
+ </script>
+    
+    <div class="MainRegisterSearch"><script> if(!window.sfdcPage) { window.sfdcPage = new ApexPage(); }UserContext.initialize({"ampm":["AM","PM"],"isAccessibleMode":false,"uiSkin":"Theme3","salesforceURL":"https://register.fca.org.uk?refURL=http%3A%2F%2Fregister.fca.org.uk%2Fshpo_searchresultspage","dateFormat":"dd/MM/yyyy","language":"en_GB","locale":"en_GB","userName":"register@fcaconnect.force.com","userId":"005b0000001h4fl","isCurrentlySysAdminSU":false,"renderMode":"RETRO","startOfWeek":"2","vfDomainPattern":"(?:[^.]+)*.eu2.visual.force.com","auraDomain":"eu2.lightning.force.com","dateTimeFormat":"dd/MM/yyyy HH:mm","orgPreferences":[{"index":257,"name":"TabOrganizer","value":true},{"index":113,"name":"GroupTasks","value":true}],"siteUrlPrefix":"","isDefaultNetwork":false,"labelLastModified":"1472854274000","today":"04/09/2016 16:05","timeFormat":"HH:mm","userPreferences":[{"index":112,"name":"HideInlineEditSplash","value":false},{"index":114,"name":"OverrideTaskSendNotification","value":false},{"index":115,"name":"DefaultTaskSendNotification","value":false},{"index":119,"name":"HideUserLayoutStdFieldInfo","value":false},{"index":116,"name":"HideRPPWarning","value":false},{"index":87,"name":"HideInlineSchedulingSplash","value":false},{"index":88,"name":"HideCRUCNotification","value":false},{"index":89,"name":"HideNewPLESplash","value":false},{"index":90,"name":"HideNewPLEWarnIE6","value":false},{"index":122,"name":"HideOverrideSharingMessage","value":false},{"index":91,"name":"HideProfileILEWarn","value":false},{"index":93,"name":"HideProfileElvVideo","value":false},{"index":97,"name":"ShowPicklistEditSplash","value":false},{"index":92,"name":"HideDataCategorySplash","value":false},{"index":128,"name":"ShowDealView","value":false},{"index":129,"name":"HideDealViewGuidedTour","value":false},{"index":132,"name":"HideKnowledgeFirstTimeSetupMsg","value":false},{"index":104,"name":"DefaultOffEntityPermsMsg","value":false},{"index":135,"name":"HideNewCsnSplash","value":false},{"index":101,"name":"HideBrowserWarning","value":false},{"index":139,"name":"HideDashboardBuilderGuidedTour","value":false},{"index":140,"name":"HideSchedulingGuidedTour","value":false},{"index":180,"name":"HideReportBuilderGuidedTour","value":false},{"index":183,"name":"HideAssociationQueueCallout","value":false},{"index":194,"name":"HideQTEBanner","value":false},{"index":193,"name":"HideChatterOnboardingSplash","value":false},{"index":195,"name":"HideSecondChatterOnboardingSplash","value":false},{"index":270,"name":"HideIDEGuidedTour","value":false},{"index":282,"name":"HideQueryToolGuidedTour","value":false},{"index":196,"name":"HideCSIGuidedTour","value":false},{"index":271,"name":"HideFewmetGuidedTour","value":false},{"index":272,"name":"HideEditorGuidedTour","value":false},{"index":205,"name":"HideApexTestGuidedTour","value":false},{"index":206,"name":"HideSetupProfileHeaderTour","value":false},{"index":207,"name":"HideSetupProfileObjectsAndTabsTour","value":false},{"index":213,"name":"DefaultOffArticleTypeEntityPermMsg","value":false},{"index":214,"name":"HideSelfInfluenceGetStarted","value":false},{"index":215,"name":"HideOtherInfluenceGetStarted","value":false},{"index":216,"name":"HideFeedToggleGuidedTour","value":false},{"index":268,"name":"ShowChatterTab178GuidedTour","value":false},{"index":275,"name":"HidePeopleTabDeprecationMsg","value":false},{"index":276,"name":"HideGroupTabDeprecationMsg","value":false},{"index":224,"name":"HideUnifiedSearchGuidedTour","value":false},{"index":226,"name":"ShowDevContextMenu","value":true},{"index":227,"name":"HideWhatRecommenderForActivityQueues","value":false},{"index":228,"name":"HideLiveAgentFirstTimeSetupMsg","value":false},{"index":232,"name":"HideGroupAllowsGuestsMsgOnMemberWidget","value":false},{"index":233,"name":"HideGroupAllowsGuestsMsg","value":false},{"index":234,"name":"HideWhatAreGuestsMsg","value":false},{"index":235,"name":"HideNowAllowGuestsMsg","value":false},{"index":236,"name":"HideSocialAccountsAndContactsGuidedTour","value":false},{"index":237,"name":"HideAnalyticsHomeGuidedTour","value":false},{"index":238,"name":"ShowQuickCreateGuidedTour","value":false},{"index":245,"name":"HideFilePageGuidedTour","value":false},{"index":250,"name":"HideForecastingGuidedTour","value":false},{"index":251,"name":"HideBucketFieldGuide","value":false},{"index":263,"name":"HideSmartSearchCallOut","value":false},{"index":265,"name":"HideSocialProfilesKloutSplashScreen","value":false},{"index":273,"name":"ShowForecastingQuotaAttainment","value":false},{"index":280,"name":"HideForecastingQuotaColumn","value":false},{"index":301,"name":"HideManyWhoGuidedTour","value":false},{"index":284,"name":"HideExternalSharingModelGuidedTour","value":false},{"index":298,"name":"HideFileSyncBannerMsg","value":false},{"index":299,"name":"HideTestConsoleGuidedTour","value":false},{"index":302,"name":"HideManyWhoInlineEditTip","value":false},{"index":303,"name":"HideSetupV2WelcomeMessage","value":false},{"index":312,"name":"ForecastingShowQuantity","value":false},{"index":313,"name":"HideDataImporterIntroMsg","value":false},{"index":314,"name":"HideEnvironmentHubLightbox","value":false},{"index":316,"name":"HideSetupV2GuidedTour","value":false},{"index":317,"name":"HideFileSyncMobileDownloadDialog","value":false},{"index":322,"name":"HideEnhancedProfileHelpBubble","value":false},{"index":328,"name":"ForecastingHideZeroRows","value":false},{"index":330,"name":"HideEmbeddedComponentsFeatureCallout","value":false},{"index":341,"name":"HideDedupeMatchResultCallout","value":false},{"index":340,"name":"HideS1BrowserUI","value":true},{"index":346,"name":"HideS1Banner","value":false},{"index":358,"name":"HideEmailVerificationAlert","value":false},{"index":354,"name":"HideLearningPathModal","value":false},{"index":359,"name":"HideAtMentionsHelpBubble","value":false},{"index":368,"name":"LightningExperiencePreferred","value":true}],"networkId":"0DBb00000008OZQ"});
+</script><div class="apexp"><div id="j_id0:j_id1:j_id35:j_id36:registersearch" class="bPageBlock brandSecondaryBrd apexDefaultPageBlock secondaryPalette"><div class="pbBody">
+<form id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38" name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38" method="post" action="/shpo_searchresultspage" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38" value="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38" />
+
+                <form>
+                
+                    <Table width="100%">
+                        <tr>
+                           
+                            <td width="80%">
+                                
+                            <div class="typeahead-container">
+                                <span class="typeahead-query">
+                                                <input autocomplete="off" class="input form-control searchbox hidden" html-placeholder="Search by company, person, product, reference number or postcode" id="searchBox" name="searchBox" onblur="if (this.placeholder == '') {this.placeholder = 'Search by company, person, product, reference number or postcode';}" onfocus="if(this.placeholder == 'Search by company, person, product, reference number or postcode') { this.placeholder = ''; }" placeholder="Search by company, person, product, reference number or postcode" type="search" />
+                                               
+                                            </span>
+                                                                      
+                                    </div><input id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:searchBox" type="text" name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:searchBox" value="Grove Capital" class="input form-control searchbox " onblur="if (this.placeholder == '') {this.placeholder = 'Search by company, person, product, reference number or postcode';}" onfocus="if(this.placeholder == 'Search by company, person, product, reference number or postcode') { this.placeholder = ''; }" placeholder="Search by company, person, product, reference number or postcode" /><input id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:moreDetails_HP" type="text" name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:moreDetails_HP" />	 							                                                                
+
+                                 <script>
+                                     document.getElementById('#searchBox').placeholder='Search by company, person, product, reference number or postcode';
+                                // document.getElementById('#searchBox').value='foo();';
+                                </script> 
+                            </td>
+                            <td width="50%"><input class="btn btn-default" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id41" name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id41" onclick="return A4J.AJAX.Submit('j_id0:j_id1:j_id35:j_id36:registersearch:j_id38',event,{'similarityGroupingId':'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id41','html5Validate':true,'parameters':{'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id41':'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id41'} } );" value="Search the Register" type="submit" /> 
+
+                            </td>
+                            </tr>
+                            <tr>
+                                <td class="validate" width="50%"><span id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:error"><span id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id43"></span></span>
+                                    </td>
+                                </tr> 
+                            <tr>
+                           
+                            <td colspan="2" width="50%"> 
+                                <div id="wrapper" style="margin:0;">
+                                <div id="left" style="float:left;overflow:hidden;">
+                                <button class="btn AdvancedSearchCollapse collapsed" data-target="#AdvancedSearchCollapse" data-toggle="collapse" style="padding: 6px 6px 6px 33px;" type="button">
+                                    Advanced Search 
+                                </button>
+								</div>  
+
+                                <div id="right">
+    								<div style="overflow:hidden; font-family: Verdana, Geneva, sans-serif; margin: 0; font-weight: normal; font-size: 12px; line-height: 12px; text-shadow: none; padding: 6px 16px 6px 0px; ">by business type and current status
+                                        
+                                        <button class="btn QuickListsCollapse collapsed" data-target="#QuickListsCollapse" data-toggle="collapse" style="padding: 6px 6px 6px 33px; margin: 6px;" type="button">
+                                            Exchanges, markets and prohibited individuals
+                                        </button>
+    								</div>   
+                                </div>  
+
+                                </div>
+                            </td>
+                             
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <div class="collapse" id="AdvancedSearchCollapse">
+                                  <div class="panel-body">
+                                     <div class="SearchFiltersContainer">
+                                          <div class="block type_of_businessAdv"> 
+                                            <h3>1. Type of business
+                                                
+                                                <button class="btn btn-default" data-target="#AdvSrchtypeofbusinessmodal" data-toggle="modal" type="button">
+                                                    ? 
+                                                </button>
+                                            </h3>
+                                                <span class="InputGroup"><fieldset style="border: none;"><table role="presentation" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection" style="top:auto;">
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection:0" value="FSF" type="checkbox" /><label for="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection:0"> Firm</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection:1" value="IND" type="checkbox" /><label for="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection:1"> Individual</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection:2" value="CIS" type="checkbox" /><label for="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_TypeSelection:2"> Collective Investment Scheme (CIS)</label></td>
+	</tr>
+</table></fieldset> 
+                                                </span>
+                                            </div> 
+                                            <div class="block current_statusAdv"> 
+                                            <h3>2. Current status
+                                               
+                                                <button class="btn btn-default" data-target="#AdvSrchcurrentstatusmodal" data-toggle="modal" type="button">
+                                                    ? 
+                                                </button>
+                                            </h3>
+                                                <span class="InputGroup"><fieldset style="border: none;"><table role="presentation" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection">
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:0" value="FSF|AUF" type="checkbox" /><label for="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:0"> Authorised</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:1" value="FSF|SCF" type="checkbox" /><label for="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:1"> Unauthorised</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:2" value="IND|ACI" type="checkbox" /><label for="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:2"> Active individual</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:3" value="CIS|AUC" type="checkbox" /><label for="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:3"> Authorised CIS</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:4" value="CIS|REC" type="checkbox" /><label for="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:4"> Recognised CIS</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:5" value="CIS|DRE" type="checkbox" /><label for="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:ShPo_StatusSelection:5"> De-recognised CIS</label></td>
+	</tr>
+</table></fieldset> 
+                                                
+                                                                                                
+                                                </span><input class="filterbutton advSearchBtn" id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id74" name="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id74" onclick="return A4J.AJAX.Submit('j_id0:j_id1:j_id35:j_id36:registersearch:j_id38',event,{'similarityGroupingId':'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id74','html5Validate':true,'parameters':{'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id74':'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id74'} } );" value="Search the Register" type="submit" />   
+                                              <br />  
+                                            </div> 
+                                        </div>
+                                        
+                                        
+                                      </div> 
+                                </div> 
+
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="3">
+                                <div class="collapse" id="QuickListsCollapse" style="font-size: 12px;">
+<script type="text/javascript" language="Javascript">function dpf(f) {var adp = f.adp;if (adp != null) {for (var i = 0;i < adp.length;i++) {adp[i].parentNode.removeChild(adp[i]);}}};function apf(f, pvp) {var adp = new Array();f.adp = adp;var ps = pvp.split(',');for (var i = 0,ii = 0;i < ps.length;i++,ii++) {var p = document.createElement("input");p.type = "hidden";p.name = ps[i];p.value = ps[i + 1];f.appendChild(p);adp[ii] = p;i += 1;}};function jsfcljs(f, pvp, t) {apf(f, pvp);var ft = f.target;if (t) {f.target = t;}f.submit();f.target = ft;dpf(f);};</script>
+<a id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_RIE" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('j_id0:j_id1:j_id35:j_id36:registersearch:j_id38'),'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_RIE,j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_RIE,preDefined_RIE,RIE','');}return false" class="external">Recognised Investment Exchanges</a>  <br /><a id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_ROIE" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('j_id0:j_id1:j_id35:j_id36:registersearch:j_id38'),'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_ROIE,j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_ROIE,preDefined_ROIE,ROIE','');}return false" class="external">Recognised Overseas Investment Exchanges</a>  <br /><a id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_RAP" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('j_id0:j_id1:j_id35:j_id36:registersearch:j_id38'),'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_RAP,j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_RAP,preDefined_RAP,RAP','');}return false" class="external">Recognised Auction Platforms</a>  <br /><a id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_DIE" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('j_id0:j_id1:j_id35:j_id36:registersearch:j_id38'),'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_DIE,j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_DIE,preDefined_DIE,DIE','');}return false" class="external">Designated Investment Exchanges</a>  <br /><a id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_RM" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('j_id0:j_id1:j_id35:j_id36:registersearch:j_id38'),'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_RM,j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_RM,preDefined_RM,RM','');}return false" class="external">Regulated Markets</a>  <br /><a id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_PI" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('j_id0:j_id1:j_id35:j_id36:registersearch:j_id38'),'j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_PI,j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:pds_PI,preDefined_PI,PI','');}return false" class="external">Prohibited Individuals</a>  <br />
+                                         
+                                </div> 
+
+                            </td>
+                        </tr>
+                
+                </Table>
+            
+          
+ 
+             </form><div id="j_id0:j_id1:j_id35:j_id36:registersearch:j_id38:j_id195"></div>
+</form><span id="ajax-view-state-page-container" style="display: none"><span id="ajax-view-state" style="display: none"><input type="hidden"  id="com.salesforce.visualforce.ViewState" name="com.salesforce.visualforce.ViewState" value="i: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" /><input type="hidden"  id="com.salesforce.visualforce.ViewStateVersion" name="com.salesforce.visualforce.ViewStateVersion" value="201609022149180643" /><input type="hidden"  id="com.salesforce.visualforce.ViewStateMAC" name="com.salesforce.visualforce.ViewStateMAC" value="AOJbQA8WXkC0c-GqWFh_nUIAAAFW9fKVrO_dIh0hsnl3CaMwUVahk02n49M9GOLiHrZF2mJXajqB" /></span></span>
+         <script type="text/javascript">
+ 
+        function setStatusVals() {
+            $('.current_statusAdv .InputGroup input').prop('disabled', true);  
+        }
+
+var browser;
+jQuery.uaMatch = function (ua) {
+    ua = ua.toLowerCase();
+
+    var match = /(chrome)[ \/]([\w.]+)/.exec(ua) ||
+        /(webkit)[ \/]([\w.]+)/.exec(ua) ||
+        /(opera)(?:.*version|)[ \/]([\w.]+)/.exec(ua) ||
+        /(msie) ([\w.]+)/.exec(ua) || ua.indexOf("compatible") < 0 && /(mozilla)(?:.*? rv:([\w.]+)|)/.exec(ua) || [];
+
+    return {
+        browser: match[1] || "",
+        version: match[2] || "0"
+    };
+};
+// Don't clobber any existing jQuery.browser in case it's different
+if (!jQuery.browser) {
+    matched = jQuery.uaMatch(navigator.userAgent);
+    browser = {};
+
+    if (matched.browser) {
+        browser[matched.browser] = true;
+        browser.version = matched.version;
+    }
+
+    // Chrome is Webkit, but Webkit is also Safari.
+    if (browser.chrome) {
+        browser.webkit = true;
+    } else if (browser.webkit) {
+        browser.safari = true;
+    }
+
+    jQuery.browser = browser;
+}
+
+    if ($.browser.msie) {
+
+            $('.type_of_businessAdv .InputGroup input').click( function(e){
+                if($('.type_of_businessAdv .InputGroup input:checkbox:checked').length == 0){
+                            $('.current_statusAdv .InputGroup').removeClass('blank');
+                            //$('.current_statusAdv .InputGroup input').prop('disabled', false);    
+                            $('.current_statusAdv .InputGroup input').prop('disabled', true);       
+                        } else {
+                            $('.current_statusAdv .InputGroup').addClass('blank');
+                            $('.current_statusAdv .InputGroup input').prop('disabled', true);       
+                            $('.type_of_businessAdv .InputGroup input:checkbox:checked').each(function(){
+                                var filter = $(this).attr('value');
+                                $('.current_statusAdv .InputGroup input').each(function(){
+                                    var statusfilter = $(this).attr('value');
+                                    var label = $('label[for="'+$(this).attr('id')+'"]');
+                                    
+                                    if(label.length <= 0) {
+                                        var parentElem = $(this).parent(),
+                                            parentTagName = parentElem.get(0).tagName.toLowerCase();
+                                    
+                                        if(parentTagName == "label") {
+                                            label = parentElem;
+                                        }
+                                    }
+
+                                    if ($(this).attr('value').indexOf(filter) > -1) {
+                                        label.css({color:'#000000'});
+                                        $(this).prop('disabled', false);
+                                    }
+
+                            })
+                        })
+                    }  
+            });
+        } else {
+
+            $('.type_of_businessAdv .InputGroup input').change(function(){
+                        if($('.type_of_businessAdv .InputGroup input:checkbox:checked').length == 0){
+                            $('.current_statusAdv .InputGroup').removeClass('blank');
+                            //$('.current_statusAdv .InputGroup input').prop('disabled', false);    
+                            $('.current_statusAdv .InputGroup input').prop('disabled', true);       
+                        } else {
+                            $('.current_statusAdv .InputGroup').addClass('blank');
+                            $('.current_statusAdv .InputGroup input').prop('disabled', true);       
+                            $('.type_of_businessAdv .InputGroup input:checkbox:checked').each(function(){
+                                var filter = $(this).attr('value');
+                                $('.current_statusAdv .InputGroup input').each(function(){
+                                    
+                                    var statusfilter = $(this).attr('value');
+                                    var label = $('label[for="'+$(this).attr('id')+'"]');
+                                    
+                                    if(label.length <= 0) {
+                                        var parentElem = $(this).parent(),
+                                            parentTagName = parentElem.get(0).tagName.toLowerCase();
+                                    
+                                        if(parentTagName == "label") {
+                                            label = parentElem;
+                                        }
+                                    }
+                                    console.log(label);
+                                    if ($(this).attr('value').indexOf(filter) > -1) {
+                                        //alert(label);
+                                        label.css({color:'#000000'});
+                                        $(this).prop('disabled', false);
+                                    }
+
+                            })
+                        })
+                    }  
+                    })  
+              }
+            setStatusVals(); 
+            </script></div><div class="pbFooter secondaryPalette"><div class="bg"></div></div></div></div> 
+    <script>
+        function tick(){
+            $('#ticker li:first').slideUp( function () { $(this).appendTo($('#ticker')).slideDown(); });
+        }
+        setInterval(function(){ tick () }, 5000);
+    </script>
+	
+	       
+    </div></span>
+                </section>
+                
+                </div>     
+                <div class="row row-offcanvas row-offcanvas-right"> 
+                    <div class="col-xs-12 col-sm-9">      
+                        <p class="pull-right visible-xs">
+                            <button class="btn btn-primary btn-xs" data-toggle="offcanvas" type="button">Tools</button>
+                        </p>
+                        <div id="content">  
+        <div class="SearchResult">
+            
+
+            <h1>Search results for "Grove Capital"</h1>
+        </div>     
+          <script type="text/javascript">
+
+           $(document).ready( function () 
+          {    
+              var oTable = $('#SearchResults').dataTable({
+                    "aLengthMenu": [[20, 50, 100, 500, 1000, 1500, -1], [20, 50, 100, 500, 1000, 1500, "All (2000)"]],
+                    "dom": '<"top"ilp>rt<"bottom"lp><"clear">',
+                    "aaSorting": [],
+                    "aoColumnDefs" : [ {
+                    "bSortable" : false,
+                    "aTargets" : [ "no-sort" ]
+                     } ]
+                })         
+               
+          });
+               </script>
+   
+              <div class="SearchResultsContainer">  
+               
+                <table class="table  table-striped  SearchResultsTable" id="SearchResults">
+                    <thead>
+                        <tr>
+                            <th class="name" style="width: 200px !important;" width="200">Name</th>
+                            <th class="OtherName" style="width: 190px !important;" width="200">Trading/Brand Names (May include Previous Names)</th>
+                            <th class="Type no-sort" style="width: 100px !important;" width="90">Type of business or individual</th>
+                            <th class="RefNumber no-sort" style="width: 90px !important;" width="90">Reference number</th><span id="j_id0:j_id1:j_id116">
+                                <th class="Status" style="width: 130px !important;" width="130">Status</th></span>
+                            
+                           
+                        </tr>
+                    </thead>
+                    
+                    <tbody>
+                        <tr> 
+                            
+                           <td class="ResultName"><a href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000a7DXgAAM" target="_blank">Sand Grove Capital Management LLP</a> (Postcode: W1S 4NQ) </td>
+                            <td><div class="TradingNames">
+                                
+                                </div></td>
+                            <td><p class="search_popover" data-content="&lt;div class='searchPopover'&gt;&lt;b&gt;Firm&lt;/b&gt;&lt;br&gt; Firms must be authorised to provide regulated products and services, including banking, investments, insurance, mortgages and other financial products and services in the UK.&lt;/div&gt;" data-placement="top" data-toggle="popover">Firm</p></td>
+                            <td>629106</td><span id="j_id0:j_id1:searchTable:0:j_id122">
+                                <td><span class="CurrentStatus Authorised Authorised search_popover" data-content="&lt;div class='searchPopover'&gt;&lt;b&gt;Authorised&lt;/b&gt;&lt;br&gt;     A firm that is given permission to provide regulated products and services.&lt;/div&gt;" data-placement="top" data-toggle="popover">Authorised<span></span></span></td></span>
+                          
+                        </tr>
+                        <tr> 
+                            
+                           <td class="ResultName"><a href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMUBSAA5" target="_blank">Grove Capital Management Ltd</a> (Postcode: W6 9DL) </td>
+                            <td><div class="TradingNames">
+                                
+                                </div></td>
+                            <td><p class="search_popover" data-content="&lt;div class='searchPopover'&gt;&lt;b&gt;Firm&lt;/b&gt;&lt;br&gt; Firms must be authorised to provide regulated products and services, including banking, investments, insurance, mortgages and other financial products and services in the UK.&lt;/div&gt;" data-placement="top" data-toggle="popover">Firm</p></td>
+                            <td>536853</td><span id="j_id0:j_id1:searchTable:1:j_id122">
+                                <td><span class="CurrentStatus Authorised Authorised search_popover" data-content="&lt;div class='searchPopover'&gt;&lt;b&gt;Authorised&lt;/b&gt;&lt;br&gt;     A firm that is given permission to provide regulated products and services.&lt;/div&gt;" data-placement="top" data-toggle="popover">Authorised<span></span></span></td></span>
+                          
+                        </tr>
+                        <tr> 
+                            
+                           <td class="ResultName"><a href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMIdgAAH" target="_blank">Grovepoint Capital LLP</a> (Postcode: NW1 5DX) </td>
+                            <td><div class="TradingNames">
+                                
+                                </div></td>
+                            <td><p class="search_popover" data-content="&lt;div class='searchPopover'&gt;&lt;b&gt;Firm&lt;/b&gt;&lt;br&gt; Firms must be authorised to provide regulated products and services, including banking, investments, insurance, mortgages and other financial products and services in the UK.&lt;/div&gt;" data-placement="top" data-toggle="popover">Firm</p></td>
+                            <td>521525</td><span id="j_id0:j_id1:searchTable:2:j_id122">
+                                <td><span class="CurrentStatus Authorised Authorised search_popover" data-content="&lt;div class='searchPopover'&gt;&lt;b&gt;Authorised&lt;/b&gt;&lt;br&gt;     A firm that is given permission to provide regulated products and services.&lt;/div&gt;" data-placement="top" data-toggle="popover">Authorised<span></span></span></td></span>
+                          
+                        </tr>
+                        <tr> 
+                            
+                           <td class="ResultName"><a href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000pktiwAAA" target="_blank">Grove Performance Management Limited</a> ( Postcode: W6 9DL) </td>
+                            <td><div class="TradingNames">
+                                TTI SPC,TTI Finance,Grove Capital Management
+                                </div></td>
+                            <td><p class="search_popover" data-content="&lt;div class='searchPopover'&gt;&lt;b&gt;Firm&lt;/b&gt;&lt;br&gt; Firms must be authorised to provide regulated products and services, including banking, investments, insurance, mortgages and other financial products and services in the UK.&lt;/div&gt;" data-placement="top" data-toggle="popover">Firm</p></td>
+                            <td>704242</td><span id="j_id0:j_id1:searchTable:3:j_id122">
+                                <td><span class="CurrentStatus Authorised Authorised search_popover" data-content="&lt;div class='searchPopover'&gt;&lt;b&gt;Authorised&lt;/b&gt;&lt;br&gt;     A firm that is given permission to provide regulated products and services.&lt;/div&gt;" data-placement="top" data-toggle="popover">Authorised<span></span></span></td></span>
+                          
+                        </tr>    
+                    </tbody>
+                </table>
+
+            </div>
+            
+            
+            <div class="panel panel-default SearchResultsInfo" id="canfindit ">
+               <div class="panel-heading">
+                    <h3 class="panel-title">If you can't find what you are looking for...</h3>
+                </div>
+                <div class="panel-body"><p> A firm, individual or product might not show up in your search results – this may be because:</p><ul><li>the spelling of their name might be different – check this along with the filters you have selected.</li><li> the firm is not regulated. Find out <a href="http://www.fca.org.uk/about/what/regulating/how-we-supervise-firms" target="_blank" class="external"> what the FCA regulates</a> and  <a href="http://www.fca.org.uk/about/what/regulating/how-we-supervise-firms" target="_blank" class="external"> what the PRA regulates</a>.</li> <li>the firm is providing regulated products or services without the required authorisation, or is knowingly running a scam. We strongly suggest you <a href="https://www.fca.org.uk/consumers/avoid-scams-and-unauthorised-firms" target="_blank" class="external">avoid dealing with unauthorised firms. </a></li><li>they are listed on another register - you may want to try searching the <a href="https://mutuals.fsa.gov.uk/?/" target="_blank" class="external">Mutuals Register</a> or <a href="http://www.fca.org.uk/firms/systems-reporting/register/use/other-registers/rcb-register" target="_blank" class="external">Regulated Covered Bonds Register </a></li><li>you are looking for a collective investment scheme that appears in our list of  authorised funds  that have merged in accordance with&nbsp;<span class="search_popover" data-toggle="popover" data-placement="top" data-content="<div class='searchPopover'>A European directive providing the ability for managing and marketing collective investment schemes across member states of the EU.</div>">UCITS Directive (2009/65/EC)</span>&nbsp;. <a href="https://www.fsa.gov.uk/register/pdf/CIS-MergedFunds.pdf" target="_blank" class="external">View the list of schemes.</a></li></ul>
+                </div>
+            </div>                           
+                        </div> 
+                    </div> 
+                    
+                    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation"><span id="j_id0:j_id1:j_id138"><span id="j_id0:j_id1:j_id139">
+<form id="j_id0:j_id1:j_id139:j_id140:j_id141" name="j_id0:j_id1:j_id139:j_id140:j_id141" method="post" action="/shpo_searchresultspage" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id0:j_id1:j_id139:j_id140:j_id141" value="j_id0:j_id1:j_id139:j_id140:j_id141" />
+
+  
+    <div class="panel panel-default SearchFilters">    
+      <div class="panel-heading">
+        <h3 class="panel-title">Filter your results</h3>
+      </div>
+      <div class="panel-body">
+      <div class="SearchFiltersContainer">
+                                 
+            <div class="block type_of_business"> 
+            <h3>Type of business
+                
+                <button class="btn btn-default" data-target="#typeofbusinessmodal" data-toggle="modal" type="button">
+                    ? 
+                </button>
+            </h3>
+            <span class="InputGroup" style="width: 100%;"><fieldset style="border: none;"><table role="presentation" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_allTypeSelection" style="width:100%">
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_allTypeSelection" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_allTypeSelection:0" value="ALT" type="checkbox" onchange="changeAll(this)" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_allTypeSelection:0"> All</label></td>
+	</tr>
+</table></fieldset> 
+            </span>
+            <span class="InputGroup" style="width: 100%;"><fieldset style="border: none;"><table role="presentation" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection" style="width:100%">
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection:0" value="FSF" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection:0"> Firm</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection:1" value="IND" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection:1"> Individual</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection:2" value="PSD" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection:2"> Payment Services Firm</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection:3" value="CCI" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection:3"> Consumer Credit Interim</label></td>
+	</tr>
+</table></fieldset> 
+            </span>
+            <a class="show_after_four" href="#"><span class="show">Show all types </span><span class="hide">Hide</span></a>
+            <div class="after_four types">
+            <span class="InputGroup" style="width: 100%;"><fieldset style="border: none;"><table role="presentation" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_CISTypeSelection" style="width:100%">
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_CISTypeSelection" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_CISTypeSelection:0" value="CIS" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_CISTypeSelection:0"> Collective Investment Scheme (CIS)</label></td>
+	</tr>
+</table></fieldset> 
+
+                
+                
+            </span>
+            <span class="InputGroup" style="width: 100%;"><fieldset style="border: none;"><table role="presentation" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2" style="width:100%">
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2:0" value="EMO" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2:0"> E-money</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2:1" value="EPF" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2:1"> Exempt Professional Firms (EPF)</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2:2" value="EXC" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2:2"> Exchange</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2:3" value="NFP" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_TypeSelection2:3"> Not-for-profit</label></td>
+	</tr>
+</table></fieldset>  
+            </span>
+            </div>          
+            </div> 
+            <div class="block current_status"> 
+            <h3>Current status
+                
+                <button class="btn btn-default" data-target="#currentstatusmodal" data-toggle="modal" type="button">
+                    ? 
+                </button>
+            </h3>
+            <span class="InputGroup" style="width: 100%;"><fieldset style="border: none;"><table role="presentation" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1" style="width:100%">
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1:0" value="FSF|AUF" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1:0"> Authorised</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1:1" value="IND|ACI" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1:1"> Active individual</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1:2" value="FSF|SCF" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection1:2"> Unauthorised</label></td>
+	</tr>
+</table></fieldset>
+            </span>
+            <a class="show_after_four" href="#"><span class="show">Show all statuses</span><span class="hide">Hide</span></a>      
+            <div class="after_four statuses">   
+            <span class="InputGroup" style="width: 100%;"><fieldset style="border: none;"><table role="presentation" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" style="width:100%">
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:0" value="FSF|APR" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:0"> Appointed Representative</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:1" value="FSF|ARF" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:1"> No longer registered as an Appointed Representative</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:2" value="FSF|AUT" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:2"> Authorised - applied to cancel</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:3" value="FSF|AIA" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:3"> Authorised - in administration</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:4" value="FSF|AIL" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:4"> Authorised - in liquidation</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:5" value="EMO|AEM" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:5"> Authorised electronic money institution</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:6" value="EMO|API" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:6"> Authorised payment institution</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:7" value="FSF|AUS" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:7"> Authorised - suspended</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:8" value="FSF|EEA" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:8"> EEA Authorised</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:9" value="EMO|EMD" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:9"> EMD Agent</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:10" value="FSF|AIAR" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:10"> Appointed representative - introducer</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:11" value="FSF|NLA" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:11"> No longer Authorised</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:12" value="FSF|PSD" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:12"> PSD Agent</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:13" value="EMO|SEM" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:13"> Small electronic money institution</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:14" value="CCI|CAN" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:14"> Cancelled</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:15" value="CCI|FAU" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:15"> Previously IP Registered</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:16" value="CCI|FA2" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:16"> Fully Authorised apart from 2nd charge</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:17" value="CCI|IPG" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:17"> Interim Permission Granted</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:18" value="CCI|IPI" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:18"> IP issued</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:19" value="CCI|IPP" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:19"> IP provisionally issued</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:20" value="CCI|IVO" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:20"> IVOP issued</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:21" value="CCI|IVP" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:21"> IVOP provisionally granted</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:22" value="CCI|LAP" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:22"> Lapsed</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:23" value="CCI|REV" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:23"> Revoked</label></td>
+	</tr>
+	<tr>
+<td>
+<input name="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2" id="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:24" value="CCI|SUS" type="checkbox" /><label for="j_id0:j_id1:j_id139:j_id140:j_id141:ShPo_StatusSelection2:24"> Suspended</label></td>
+	</tr>
+</table></fieldset> 
+            </span>    
+            </div>
+            </div> 
+           
+                
+                
+            <script type="text/javascript">
+
+
+            function setStatusVals() {
+                 $('.current_status .InputGroup input').prop('disabled', true);  
+             }
+             setStatusVals();
+            // Getting query string parameters
+            var vars = [], hash;
+            var query = document.URL.split('?')[1];
+            var query = query.replace('%7C', '|')
+            if(query != undefined){
+                query = query.split('&');
+                for(var i = 0; i < query.length; i++){
+                    hash = query[i].split('=');
+                    vars.push(hash[1]);
+                    $('input[value="' + hash[0] + '"]').attr('checked', true);
+                    populateCheckboxes();
+                }
+            };   
+        
+            // Checking radio buttons
+            function populateCheckboxes() {
+                $("input[type=checkbox]").each(function() {
+                    $('input[value="' + hash[0] + '"]').attr('checked', true);
+                });
+                //ALM 8215: Clear all checkboxes from the advanced search
+                $('.type_of_businessAdv .InputGroup input:checkbox:checked').each(function(){
+                     $(this).attr('checked', false);
+                });       
+                $('.current_statusAdv .InputGroup input').each(function(){
+                     $(this).attr('checked', false);
+                });   
+                refreshFilter();
+
+            };
+
+            function refreshFilter() {
+                if($('.type_of_business .InputGroup input:checkbox:checked').length == 0){
+                        $('.current_status .InputGroup').removeClass('blank');
+                        $('.current_status .InputGroup input').prop('disabled', true);         
+                } else {
+                        $('.current_status .InputGroup').addClass('blank');
+                        $('.current_status .InputGroup input').prop('disabled', true);       
+                        $('.type_of_business .InputGroup input:checkbox:checked').each(function(){
+                            var filter = $(this).attr('value');
+                            $('.current_status .InputGroup input').each(function(){
+                                
+                                var statusfilter = $(this).attr('value');
+                                var label = $('label[for="'+$(this).attr('id')+'"]');
+                                
+                                if(label.length <= 0) {
+                                    var parentElem = $(this).parent(),
+                                        parentTagName = parentElem.get(0).tagName.toLowerCase();
+                                
+                                    if(parentTagName == "label") {
+                                        label = parentElem;
+                                    }
+                                }
+                                //console.log(label);
+                                if ($(this).attr('value').indexOf(filter) > -1) {
+                                    //console.log(label);
+                                    label.css({color:'#000000'});
+                                    $(this).prop('disabled', false);
+                                }
+                              
+                        })
+                    })
+                }  
+                if($('.type_of_businessAdv .InputGroup input:checkbox:checked').length == 0){
+                        $('.current_statusAdv .InputGroup').removeClass('blank');
+                        //$('.current_statusAdv .InputGroup input').prop('disabled', false);    
+                        $('.current_statusAdv .InputGroup input').prop('disabled', true);       
+                } else {
+                        $('.current_statusAdv .InputGroup').addClass('blank');
+                        $('.current_statusAdv .InputGroup input').prop('disabled', true);       
+                        $('.type_of_businessAdv .InputGroup input:checkbox:checked').each(function(){
+                            var filter = $(this).attr('value');
+                            $('.current_statusAdv .InputGroup input').each(function(){
+                                
+                                var statusfilter = $(this).attr('value');
+                                var label = $('label[for="'+$(this).attr('id')+'"]');
+                                
+                                if(label.length <= 0) {
+                                    var parentElem = $(this).parent(),
+                                        parentTagName = parentElem.get(0).tagName.toLowerCase();
+                                
+                                    if(parentTagName == "label") {
+                                        label = parentElem;
+                                    }
+                                }
+                                if ($(this).attr('value').indexOf(filter) > -1) {
+                                    //console.log(label);
+                                    label.css({color:'#000000'});
+                                    $(this).prop('disabled', false);
+                                }
+                        })
+                    })
+                }                  
+            }
+
+            function changeAll(checkbox) {
+                    if (checkbox.checked){
+                         $('.type_of_business .InputGroup input:checkbox').each(function(){
+                            if ($(this).attr('value') != 'ALT') {
+                                $(this).prop('disabled', true);
+                                $(this).prop('checked', false);
+                                var label = $('label[for="'+$(this).attr('id')+'"]');
+                                label.css({color:'#eeeeee'});
+                            }
+                         });
+                    }
+                    else {
+                        $('.type_of_business .InputGroup input:checkbox').each(function(){
+                            var label = $('label[for="'+$(this).attr('id')+'"]');
+                            label.css({color:'#000000'});
+                            $(this).prop('disabled', false);
+                        });
+                    }
+            }            
+    
+            $('.type_of_business .InputGroup input').click(function(){
+                    //setStatusVals();
+                    if($('.type_of_business .InputGroup input:checkbox:checked').length == 0){
+                        $('.type_of_business .InputGroup input:checkbox').each(function(){
+                                    var label = $('label[for="'+$(this).attr('id')+'"]');
+                                    label.css({color:'#000000'});
+                                    $(this).prop('disabled', false);
+                        });
+                        $('.current_status .InputGroup input').each(function(){
+                            $(this).prop('disabled', true);
+                            var label = $('label[for="'+$(this).attr('id')+'"]');
+                            label.css({color:'#eeeeee'});
+                        });
+                        //$('.current_status .InputGroup').removeClass('blank');
+                        //$('.current_status .InputGroup input').prop('disabled', true);         
+                    } else {
+                        //$('.current_status .InputGroup').addClass('blank');
+                        //$('.current_status .InputGroup input').prop('disabled', true);
+                        $('.current_status .InputGroup input').each(function(){
+                                $(this).prop('disabled', true);
+                                var label = $('label[for="'+$(this).attr('id')+'"]');
+                                label.css({color:'#eeeeee'});
+                        });       
+                        $('.type_of_business .InputGroup input:checkbox:checked').each(function(){
+                            var filter = $(this).attr('value');
+                            $('.current_status .InputGroup input').each(function(){
+                                var statusfilter = $(this).attr('value');
+                                var label = $('label[for="'+$(this).attr('id')+'"]');
+                                
+                                if(label.length <= 0) {
+                                    var parentElem = $(this).parent(),
+                                        parentTagName = parentElem.get(0).tagName.toLowerCase();
+                                
+                                    if(parentTagName == "label") {
+                                        label = parentElem;
+                                    }
+                                }
+                                //console.log(label);
+                                if ($(this).attr('value').indexOf(filter) > -1) {
+                                    //console.log(label);
+                                    label.css({color:'#000000'});
+                                    $(this).prop('disabled', false);
+                                }
+
+                        })
+                    })
+                }  
+                })   
+            </script>
+        </div><input type="submit" name="j_id0:j_id1:j_id139:j_id140:j_id141:j_id155" value="Filter Results" class="filterbutton" />
+        
+        
+        </div> 
+    </div><div id="j_id0:j_id1:j_id139:j_id140:j_id141:j_id196"></div>
+</form></span></span>
+                        
+                       
+                        
+                        
+                       
+                       
+                   
+                        
+                        
+                           
+                        
+                         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div> 
+                </div> 
+                
+                
+                <div id="footer"><span id="j_id0:j_id1:j_id182"><div class="footer_links">
+        <a href="https://www.fca.org.uk/legal" title="Legal information">Legal information</a><span> / </span>
+        <a href="https://www.the-fca.org.uk/freedom-information" title="Freedom of information">Freedom of information</a><span> / </span>
+        <a href="http://www.fca.org.uk/site-info/privacy" title="Privacy Policy statement">Privacy Policy statement</a><span> / </span>
+        <a href="http://www.fca.org.uk/site-info/contact" title="Contact us">Contact us</a>
+    </div>
+    <span class="smallprint">© Financial Conduct Authority</span></span>
+                    <script src="/resource/1426882958000/ShPo_JQueryTypeAhead/ShPo_JQueryTypeAhead/js/ShPo_SyncSearchBoxes.js"></script>
+                   
+                    <script>
+                    
+                        
+                        $(document).ready(function() {
+                        
+                        $('#searchBox').typeahead({
+                            minLength: 1,
+                            order: "asc",
+                            group: true,
+                            groupMaxItem: 5,
+                            hint: false,
+                            filter: "lists", 
+                            cache: true,
+                            compression: true,
+                            ttl: 86400000, // 1day
+                            selector: {
+                                filter: "input-group-btn",
+                                filterButton: "btn btn-default",
+                                dropdown: "dropdown-menu dropdown-menu-right",
+                                list: "dropdown-menu",
+                                hint: "form-control"
+                            },
+                            source: {
+                                  firms: ["/ShPo_JsonTypeAheadPage"],
+                                individuals: ["/ShPo_JsonTypeAheadContactPage"]
+                            },
+                            callback: {
+                                onResult: function() {
+                                 $("#searchBox").removeClass("loading");  
+                                },
+                            },
+                            
+                            debug: true
+                        });
+                    });
+                    </script>
+                 </div>
+            </div>
+             
+            
+            
+            <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" id="typeofbusinessmodal" role="dialog" tabindex="-1">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span></button>
+                    <h3 class="modal-title" id="myModalLabel">Type of business</h3>
+                  </div>
+                  <div class="modal-body"><p><strong>Financial services firm</strong> - Firms must be authorised to provide regulated products and services, including banking, investments, insurance, mortgages and other financial products and services in the UK. </p><p><strong>Individual</strong> - Individuals (and some firms) must be ‘approved’ to perform certain tasks in an authorised firm. We describe these as ‘approved persons’ and the tasks as ‘controlled functions’. </p><p><strong>Payment services firm</strong> - Firms must be authorised or registered to provide payment services, including issuing credit cards and  money transfer operations.</p><p><strong>Consumer Credit Interim</strong> - A consumer credit firm that held an Office of Fair Trading licence and wanted to continue its consumer credit activities had to apply for interim permission. This will last until it has to apply for authorisation or a variation of permission.</p><p><strong>EMoney</strong> - Firms must be authorised or registered to issue electronic money (e-money), which includes pre-paid cards such as travel money cards and some gift cards.</p> <p><strong>Unauthorised firm</strong> - Some firms provide products and services without the required authorisation, or is knowingly running a scam. We strongly suggest you avoid dealing with unauthorised firms.</p><p><strong>Collective investment scheme</strong> - Some collective investment schemes (CIS) are regulated by us, including investment companies with variable capital (‘open ended investment companies’), some unit trusts, and recognised offshore schemes.</p><p><strong>Exempt professional firm</strong> - Some firms (such as solicitors, accountants and chartered surveyors) can perform limited regulated financial activities as part of their normal professional services, without being authorised or an agent of an authorised firm.</p><p><strong>Exchange</strong> - We recognise and supervise certain investment exchanges.</p><p><strong>Not-for-profit body</strong> - Not-for-profit bodies may be covered by a group licence to provide financial services, debt management services and credit information services.</p>&nbsp;
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-default modalbtn" data-dismiss="modal" type="button">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+            
+            <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" id="currentstatusmodal" role="dialog" tabindex="-1">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span></button>
+                    <h3 class="modal-title" id="myModalLabel">Current status</h3>
+                  </div>
+                  <div class="modal-body"><p><strong>Active Individual</strong> - An individual (and some firms) that can perform certain tasks in an authorised firm. We describe these individuals and firms as ‘approved persons’ and the tasks as ‘controlled functions’.</p> <p><strong>Appointed representative</strong> - A firm or individual that can act on behalf of another firm (its principal) that is authorised in the UK or regulated in another EEA country. The principal is responsible for the appointed representative's activities.</p> <p><strong>Appointed representative – former</strong> - An appointed representative that can no longer provide regulated products and services, but previously could act on behalf of another firm (its principal).</p> <p><strong>Appointed representative – introducer</strong> - A firm that can introduce customers to another firm or members of the firm’s group, and/or give out certain kinds of marketing material. It must be a representative of a firm authorised by the FCA or PRA, or regulated in the EEA.</p> <p><strong>Approved</strong> - An individual (and some firms) that can perform certain tasks in an authorised firm. We describe these individuals and firms as ‘approved persons’ and the tasks as ‘controlled functions’.</p><p><strong>Authorised firm</strong> - A firm that is given permission to provide regulated products and services.</p> <p><strong>Authorised firm – applied to cancel</strong> - A firm that has applied to cancel its authorisation but must still meet our standards in dealing with its customers.</p> <p><strong>Authorised firm – in administration</strong> - A firm that has stopped taking on new business but is still authorised and has to continue to meet our standards in dealing with its customers.</p> <p><strong>Authorised firm – in liquidation</strong> - A firm that has stopped taking on new business but is still authorised and has to continue to meet our standards in dealing with its customers.</p> <p><strong>Authorised firm – suspended</strong> - A firm that has to stop providing regulated products and services for a period of time.</p> <p><strong>Authorised electronic money institution</strong> - A firm that we have given permission to issue electronic money (e-money) and provide payment services.</p><p><strong>Authorised payment institution</strong> - A firm that we have given permission to provide payment services.</p> <p><strong>EEA authorised firm</strong> - A firm regulated in another <span class="search_popover" data-toggle="popover" data-placement="top" data-content="<div class='searchPopover'> The EEA includes the EU states, plus Iceland, Norway and Liechtenstein.</div>">European Economic Area</span> a (EEA) country that can offer certain products or services in the UK. The firm must meet minimum standards agreed across all EEA countries.</p><p><strong>Electronic money agent</strong> - A firm that can issue electronic money (e-money) and provide payment services on behalf of an e-money institution.</p><p><strong>Inactive individual</strong> - An individual (and some firms) that was previously approved to perform certain tasks in a regulated firm. These individuals and firms would have been described as ‘approved persons’ and the tasks as ‘controlled functions’. </p><p><strong>No longer authorised firm</strong> - A firm that can no longer provide regulated products and services, but previously was authorised by the PRA and/or FCA. </p><p><strong>Payment services agent</strong> - A firm that can provide payment services on behalf of a payment institution.</p><p><strong>Small electronic money institution</strong> - A firm that can issue electronic money (e-money) and provide payment services. These firms are ‘registered’ (rather than ‘authorised’), which affects how we regulate the firm. </p><p><strong>Small payment institution</strong> - A firm that can provide payment services. These firms are ‘registered’ (rather than ‘authorised’), which affects how we regulate the firm. </p> <p><strong>Unauthorised firm</strong> - Some firms provide products and services without the required authorisation, or is knowingly running a scam. We strongly suggest you avoid dealing with unauthorised firms.</p> <p><strong>No longer Authorised</strong> - This is a firm that can no longer provide regulated products and services, but was previously authorised by the PRA and/or FCA.</p> <p><strong>Cancelled</strong> - The firm has cancelled its interim permission to undertake consumer credit business.</p> <p><strong>Previously IP Registered</strong> - This firm previously had interim permission to perform certain consumer credit activities for the period indicated in this record.  It has since applied for and been authorised to carry out credit activities in its main permission, replacing the interim permission. You should refer to the authorisation record for this firm for the permissions since the interim permission ended.</p> <p><strong>Fully Authorised apart from 2nd charge</strong> - This firm is authorised to run consumer credit business. You should refer to the authorisation information for this firm rather than its interim permission, except for its second charge mortgage business which still comes under its interim permission.</p> <p><strong>Interim Permission Granted</strong> - The firm has interim permission to undertake consumer credit business.</p> <p><strong>IP issued</strong> - The firm has interim permission to undertake consumer credit business.</p> <p><strong>IP provisionally issued</strong> - The firm has interim permission to undertake consumer credit business.</p> <p><strong>IVOP issued</strong> - This firm has interim permission to run consumer credit business and was already authorised to provide financial products and services.</p> <p><strong>IVOP provisionally granted</strong> - The firm has interim permission to undertake consumer credit business and was already authorised to provide financial products and services.</p> <p><strong>Lapsed</strong> - The firm no longer has interim permission to undertake consumer credit business.</p> <p><strong>Revoked</strong> - This firm has had its interim permission to run consumer credit business withdrawn. See the disciplinary history section for more information.</p> <p><strong>Suspended</strong> - This firm has had its interim permission to undertake consumer credit business suspended by the FCA and/or PRA. See the disciplinary history about the firm for further information.</p> &nbsp;
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-default modalbtn" data-dismiss="modal" type="button">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            
+            
+             
+            <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" id="AdvSrchtypeofbusinessmodal" role="dialog" tabindex="-1">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span></button>
+                    <h3 class="modal-title" id="myModalLabel">Type of business</h3>
+                  </div>
+                  <div class="modal-body"><p><strong>Financial services firm</strong> - Firms must be authorised to provide regulated products and services, including banking, investments, insurance, mortgages and other financial products and services in the UK. </p><p><strong>Individual</strong> - Individuals (and some firms) must be ‘approved’ to perform certain tasks in an authorised firm. We describe these as ‘approved persons’ and the tasks as ‘controlled functions’. </p><p><strong>Collective investment scheme</strong> - Some collective investment schemes (CIS) are regulated by us, including investment companies with variable capital (‘open ended investment companies’), some unit trusts, and recognised offshore schemes.</p>&nbsp;
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-default modalbtn" data-dismiss="modal" type="button">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+            
+            <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" id="AdvSrchcurrentstatusmodal" role="dialog" tabindex="-1">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">&times;</span></button>
+                    <h3 class="modal-title" id="myModalLabel">Current status</h3>
+                  </div>
+                  <div class="modal-body"><p><strong>Authorised firm</strong> - A firm that is given permission to provide regulated products and services.</p><p><strong>Unauthorised firm</strong> - Some firms provide products and services without the required authorisation, or is knowingly running a scam. We strongly suggest you avoid dealing with unauthorised firms.</p><p><strong>Active Individual</strong> - An individual (and some firms) that can perform certain tasks in an authorised firm. We describe these individuals and firms as ‘approved persons’ and the tasks as ‘controlled functions’.</p> <p><strong>Authorised CIS</strong> - This is a fund set up in the UK that is available for investment.</p><p><strong>Recognised CIS</strong> - This is a fund set up in another country that can be marketed to investors in the UK and is available for investment.</p><p><strong>De-recognised CIS</strong> - This is a fund set up in another country that can no longer be marketed to investors in the UK.</p>   &nbsp;
+                  </div>
+                  <div class="modal-footer">
+                    <button class="btn btn-default modalbtn" data-dismiss="modal" type="button">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            
+        </body>  
+    </html><script type="text/javascript">Sfdc.onReady(function(){
+	SfdcApp && SfdcApp.Visualforce && SfdcApp.Visualforce.VSManager && SfdcApp.Visualforce.VSManager.vfPrepareForms(["j_id0:j_id1:j_id139:j_id140:j_id141","j_id0:j_id1:j_id35:j_id36:registersearch:j_id38"]);
+
+});</script></body></html>
