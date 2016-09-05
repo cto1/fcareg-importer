@@ -23,7 +23,6 @@ var file = 'details.json';
 
 x(url, '#content', {
   name: '.RecordName',
-  
   pervious_names: '.FirmPreviousNames | trim | replace_new_line | replace_space',
   status: '.alert h4 .statusbox | trim | replace_new_line | replace_space',
   ref_number: '.ReferenceNumber | trim | replace_new_line | replace_space',
