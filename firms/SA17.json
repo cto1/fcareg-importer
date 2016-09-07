@@ -1,0 +1,27 @@
+[
+  {
+    "firm": "ASF (Postcode: SA17 5EF) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfRlKAAV",
+    "ref_number": "302974",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Gravell's Limited (Postcode: SA17 4TA) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfWL5AAN",
+    "trading_names": "Gravell's Direct,Gravell's Haverfordwest",
+    "ref_number": "307976",
+    "status": "Authorised"
+  },
+  {
+    "firm": "John Davies Car Sales (Postcode: SA17 4TF) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000nyfcJAAQ",
+    "ref_number": "689320",
+    "status": "Authorised"
+  },
+  {
+    "firm": "A & M Generators Limited (Postcode: SA17 4TF) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003RCSSmAAP",
+    "ref_number": "751295",
+    "status": "Authorised"
+  }
+]

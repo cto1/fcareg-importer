@@ -1,0 +1,28 @@
+[
+  {
+    "firm": "ERG Financial Planning Limited (Postcode: EH31 2HB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMXYtAAP",
+    "ref_number": "533548",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Robert Clarke (Postcode: EH31 2GY) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003IK8eTAAT",
+    "trading_names": "Snap-on,Snap-on Tools,Snap-on Diagnostics",
+    "ref_number": "735358",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Clarke R Limited (Postcode: EH31 2GY) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003HVcRJAA1",
+    "trading_names": "Snap-on,Snap-on Diagnostics,Snap-on Tools",
+    "ref_number": "735272",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Gullane Golf Club (Postcode: EH31 2BB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b0000015YLGJAA4",
+    "ref_number": "712668",
+    "status": "Authorised"
+  }
+]

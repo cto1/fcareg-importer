@@ -1,0 +1,23 @@
+[
+  {
+    "firm": "Marks & Spencer Financial Services Plc (Postcode: CH99 9FB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfGS1AAN",
+    "trading_names": "Marks & Spencer Money,M&S Bank,M&S Insurance,Marks & Spencer Financial Services Limited,M&S Savings & Investments",
+    "ref_number": "151427",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Marks & Spencer Unit Trust Management Limited (Postcode: CH99 9FB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfFUWAA3",
+    "trading_names": "M&S Savings & Investments",
+    "ref_number": "141662",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Marks & Spencer Savings and Investments Ltd (Postcode: CH99 9LP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfHBrAAN",
+    "trading_names": "M&S Savings & Investments,Legistshelfco No 106 Limited,Marks and Spencer Plan Management Limited",
+    "ref_number": "155226",
+    "status": "Authorised"
+  }
+]

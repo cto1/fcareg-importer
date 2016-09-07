@@ -1,0 +1,58 @@
+[
+  {
+    "firm": "London Court Limited (Postcode: OX49 5AP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfFdbAAF",
+    "ref_number": "146522",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Logic Financial Services Ltd (Postcode: OX49 5AB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000XmlTFAAZ",
+    "ref_number": "627030",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Querns Asset Managers LLP (Postcode: OX49 5TU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000Mfk7rAAB",
+    "ref_number": "516255",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Proleasing Limited (Postcode: OX49 5LH) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000m6JkMAAU",
+    "ref_number": "679926",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Crown Pavilions Limited (Postcode: OX49 5EP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000TA2mPAAT",
+    "ref_number": "622631",
+    "status": "Authorised"
+  },
+  {
+    "firm": "STR8 SIX LTD (Postcode: OX49 5RU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000m6oS9AAI",
+    "ref_number": "680946",
+    "status": "Authorised"
+  },
+  {
+    "firm": "OVL Group Limited (Postcode: OX49 5NP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000i9jFsAAI",
+    "trading_names": "Minibus Leasing UK,Moorland Cars,Fleet Manager Plus,edrive,Car Contract Hire Ltd,Vans4Lease,CarContractHire.com,Oxford Vehicle Leasing,OVL",
+    "ref_number": "663287",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Car Contract Hire Ltd (Postcode: OX49 5NP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000sAKN8AAO",
+    "trading_names": "www.carcontracthire.com,www.carcontracthire.co.uk",
+    "ref_number": "709422",
+    "status": "Authorised"
+  },
+  {
+    "firm": "City Endowments Limited (Postcode: WD6 2HP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfHkoAAF",
+    "ref_number": "190635",
+    "status": "Authorised"
+  }
+]

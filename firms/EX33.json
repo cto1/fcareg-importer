@@ -1,0 +1,22 @@
+[
+  {
+    "firm": "Upton K Limited (Postcode: EX33 2AS) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000n3eTIAAY",
+    "trading_names": "Snap-on Tools,Snap-on Diagnostics",
+    "ref_number": "683882",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Croyde Motors (Postcode: EX33 1LX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfSmmAAF",
+    "ref_number": "314024",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Southfork ATB Ltd (Postcode: EX33 2JL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000nyqscAAA",
+    "trading_names": "Southfork Racing",
+    "ref_number": "689787",
+    "status": "Authorised"
+  }
+]

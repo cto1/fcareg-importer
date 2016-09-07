@@ -1,0 +1,33 @@
+[
+  {
+    "firm": "Bar-Service UK Limited (Postcode: M43 7AZ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000001EhuVOAAZ",
+    "ref_number": "715212",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Buxton Lane Mortgage Services Limited (Postcode: M43 6GE) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000bZ84JAAS",
+    "ref_number": "631474",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Stephenson & Threader (Postcode: M43 6PE) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfQqcAAF",
+    "ref_number": "301973",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Melia Wealth Management Limited (Postcode: M43 7TX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMPelAAH",
+    "trading_names": "Panacea Wealth Management",
+    "ref_number": "569221",
+    "status": "Authorised"
+  },
+  {
+    "firm": "J W Car and Van sales (Postcode: M43 7FT) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003F6AV8AAN",
+    "ref_number": "732620",
+    "status": "Authorised"
+  }
+]

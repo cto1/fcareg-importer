@@ -1,0 +1,40 @@
+[
+  {
+    "firm": "Blue Ocean Investment Company Limited (Postcode: DA3 8DS) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfqKpAAJ",
+    "ref_number": "456458",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Sevens & Classics Limited (Postcode: DA3 8PU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000iC8EPAA0",
+    "ref_number": "665432",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Fosker Engineering LLP (Postcode: DA3 8PU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003RClJkAAL",
+    "trading_names": "Foskers",
+    "ref_number": "751514",
+    "status": "Authorised"
+  },
+  {
+    "firm": "G Dorman Limited (Postcode: DA3 7EG) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000kfupzAAA",
+    "trading_names": "Hartley Dental Practice",
+    "ref_number": "672710",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Payton & Tate (Postcode: DA3 7JF) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfNuJAAV",
+    "ref_number": "308975",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Westwood Car & Commercial Ltd (Postcode: DA3 8EL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000i8ehnAAA",
+    "ref_number": "661967",
+    "status": "Authorised"
+  }
+]

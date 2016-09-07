@@ -1,0 +1,26 @@
+[
+  {
+    "firm": "Jane Smith Financial Planning Limited (Postcode: MK46 5FP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfLnJAAV",
+    "ref_number": "212859",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Nationwide Corporate Finance Limited (Postcode: MK46 5FP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000rKDxuAAG",
+    "ref_number": "708752",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Alfandari Private Equities Limited (Postcode: MK46 5FP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002eAKA6AAO",
+    "ref_number": "729205",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Pete Dawes Financial Solutions Limited (Postcode: MK46 5JS) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MgAmCAAV",
+    "ref_number": "476465",
+    "status": "Authorised"
+  }
+]

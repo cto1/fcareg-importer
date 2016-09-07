@@ -1,0 +1,42 @@
+[
+  {
+    "firm": "Giles Finance & Consultancy Services (Postcode: RM9 5YN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002NI5FJAA1",
+    "ref_number": "726857",
+    "status": "Authorised"
+  },
+  {
+    "firm": "CC (Essex) Limited (Postcode: RM9 6PR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003Ji4EnAAJ",
+    "ref_number": "739733",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Meridia Management Services Limited (Postcode: RM9 5AQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000qJXuYAAW",
+    "trading_names": "www.cashconverters.co.uk,Cash Converters Stratford,Cash Converters Basildon,Personal Finance Centre,Cash Converters Pitsea,Cash Converters Dagenham",
+    "ref_number": "706467",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Barking & Dagenham Citizens Advice Bureau (Postcode: RM9 5AF) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000P6SmgAAF",
+    "trading_names": "BARKING & DAGENHAM CITIZENS ADVICE BUREAU",
+    "ref_number": "617809",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Patrick James and Pamela Dorrington (Postcode: RM9 5AQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000khjLFAAY",
+    "trading_names": "Cash Converters Pitsea,Cash Converters Basildon,Cash Converters Dagenham,Cash Converters Stratford",
+    "ref_number": "674451",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Victor Millwell Insurance Agency Ltd (Postcode: RM9 6UR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfPgvAAF",
+    "trading_names": "Motor Caravan Plus,Comfort Insurance",
+    "ref_number": "300281",
+    "status": "Authorised"
+  }
+]

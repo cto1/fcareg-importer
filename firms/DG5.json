@@ -1,0 +1,27 @@
+[
+  {
+    "firm": "Wilson Machinery ltd (Postcode: DG5 4QU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000pkskMAAQ",
+    "ref_number": "703523",
+    "status": "Authorised"
+  },
+  {
+    "firm": "European Forest Machinery Ltd (Postcode: DG5 4QU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002C6Pg6AAF",
+    "ref_number": "726251",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Dalbeattie Finance Company Limited (Postcode: DG5 4AJ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000001m13H8AAI",
+    "ref_number": "722510",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Bithell Asset Finance Solutions Ltd (Postcode: DG5 4QU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000dldtAAAQ",
+    "trading_names": "BAFS",
+    "ref_number": "649139",
+    "status": "Authorised"
+  }
+]

@@ -1,0 +1,654 @@
+[
+  {
+    "firm": "Cairn Independent Limited (Postcode: KY1 2SA) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfFazAAF",
+    "trading_names": "Carlyle Insurance & Financial Services Ltd,J W Group Investment Strategies Limited,Cairn Independent Corporate Life Planning",
+    "ref_number": "142665",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Park Place Insurance Services Ltd (Postcode: KY1 1LL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfUhWAAV",
+    "trading_names": "Our Travel,Smart Rental Solutions,Insuredirect,Justdrive Recovery",
+    "ref_number": "306013",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Create and Prosper Financial Services Ltd (Postcode: KY1 1XN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000Mfq0lAAB",
+    "trading_names": "Added Value Financial Services,Create & Prosper Financial Services Ltd",
+    "ref_number": "520631",
+    "status": "Authorised"
+  },
+  {
+    "firm": "KE Automatics Ltd (Postcode: KY1 3HS) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000001Ei0pvAAB",
+    "ref_number": "715350",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Norman Andrew Valente (Postcode: KY1 3NB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000qqrdcAAA",
+    "trading_names": "Go Leisure",
+    "ref_number": "706667",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Brenwood Motor Company (Postcode: KY1 3NH) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000nSKB6AAO",
+    "ref_number": "685851",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Ross Walker (Postcode: KY1 4NR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000kgfXGAAY",
+    "trading_names": "Money Alba",
+    "ref_number": "673375",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Jonathan Wood (Postcode: KY1 3ES) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003JjxbxAAB",
+    "trading_names": "J W Cars",
+    "ref_number": "741353",
+    "status": "Authorised"
+  },
+  {
+    "firm": "MILTON MOTORS LTD (Postcode: KY1 4AJ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002NHbeyAAD",
+    "trading_names": "Milton Motors Ltd",
+    "ref_number": "726519",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Paul Thomas Maksymuik (Postcode: KY1 2NJ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000OHKIfAAP",
+    "ref_number": "615513",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Rumblurs Motorcycles Limited (Postcode: KY1 2NW) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000k26YgAAI",
+    "ref_number": "670365",
+    "status": "Authorised"
+  },
+  {
+    "firm": "ALISTAIR BUCHAN LTD. (Postcode: KY1 4RA) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000iAHtnAAG",
+    "ref_number": "663733",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Myrtle Coffee Services Limited (Postcode: KY1 3JE) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000kgdesAAA",
+    "ref_number": "673301",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Wallace Caravans (Kirkcaldy) (Postcode: KY1 3NW) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000p1xFgAAI",
+    "ref_number": "700024",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Alan Duffus Limited (Postcode: KY1 2QF) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000m4gGWAAY",
+    "trading_names": "Alan Duffus Motorcycles",
+    "ref_number": "678660",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Insure Smart Limited (Postcode: KY1 1LD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfQ1UAAV",
+    "trading_names": "Insurance Services (GB) Limited",
+    "ref_number": "311587",
+    "status": "Authorised"
+  },
+  {
+    "firm": "J & K Financial Solutions Limited (Postcode: KY1 1JN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000pitRwAAI",
+    "trading_names": "J & K Financial Solutions",
+    "ref_number": "702894",
+    "status": "Authorised"
+  },
+  {
+    "firm": "THE KIRKCALDY MOTOR COMPANY LTD. (Postcode: KY1 2SA) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000khgQHAAY",
+    "trading_names": "www.thekirkcaldymotorcompany.co.uk,The Kirkcaldy Motor Company",
+    "ref_number": "674346",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Advance Insurance Management Solutions Limited (Postcode: KY1 1LL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMKolAAH",
+    "ref_number": "495469",
+    "status": "Authorised"
+  },
+  {
+    "firm": "ST. CLAIR MOTOR COMPANY (KIRKCALDY) LIMITED (Postcode: KY1 2DG) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000nyWTpAAM",
+    "ref_number": "689164",
+    "status": "Authorised"
+  },
+  {
+    "firm": "John Scobie Biggar (Postcode: KY1 4AQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000iBmINAA0",
+    "trading_names": "Chapel Motors",
+    "ref_number": "664750",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Regency Cars (Scotland) Ltd (Postcode: KY1 1HR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000001EiuJ5AAJ",
+    "trading_names": "The Richmond Motor Company",
+    "ref_number": "715596",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Elite Automotive (Scotland) Ltd (Postcode: KY1 2RU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000l7PTpAAM",
+    "ref_number": "674879",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Catherine Forrester Simpson as Executrix (Postcode: KY15 5PR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003Oa1S3AAJ",
+    "trading_names": "T M Simpson",
+    "ref_number": "749646",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Dunfermline Repair Centre Ltd. (Postcode: KY12 0EL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003LFiA1AAL",
+    "trading_names": "Audio Video Centre",
+    "ref_number": "742459",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Muir Homes Limited (Postcode: KY11 1HY) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003JjRHFAA3",
+    "ref_number": "741063",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Young Joinery Ltd (Postcode: KY11 9JJ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003INL9fAAH",
+    "ref_number": "737774",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Andrew Thomson (Postcode: KY12 7DL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003IMRolAAH",
+    "trading_names": "Andrew Thomson Lifestyle,Andrew Thomson TV Video Hi Fi",
+    "ref_number": "737125",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Top Tyres (Postcode: KY14 7DP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003IMEWKAA5",
+    "ref_number": "736897",
+    "status": "Authorised"
+  },
+  {
+    "firm": "The Double A Trading Company Limited (Postcode: KY15 4RB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002zythGAAQ",
+    "ref_number": "731582",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Sandy Wallace Cycles Ltd (Postcode: KY11 1LW) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002e9ni0AAA",
+    "trading_names": "SWC,Sandy Wallace",
+    "ref_number": "728942",
+    "status": "Authorised"
+  },
+  {
+    "firm": "George Colliar Ltd (Postcode: KY13 0NH) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002NHtcfAAD",
+    "ref_number": "726699",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Singletrack Bikes (Postcode: KY11 4HE) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002NHFlZAAX",
+    "ref_number": "726355",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Bridge Systems Ltd. (Postcode: KY11 8PB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000001EhQP0AAN",
+    "ref_number": "714999",
+    "status": "Authorised"
+  },
+  {
+    "firm": "G. Reekie Group Limited (Postcode: KY15 4SX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000qHn2zAAC",
+    "ref_number": "705661",
+    "status": "Authorised"
+  },
+  {
+    "firm": "THE COMFORT STORE LTD (Postcode: KY11 1HX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000p10fhAAA",
+    "ref_number": "697618",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Inglis Veterinary Centres Ltd (Postcode: KY11 4LA) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000n4dsoAAA",
+    "ref_number": "683981",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Dunfermline Motorcycles (Postcode: KY12 8DQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000m70b3AAA",
+    "ref_number": "681402",
+    "status": "Authorised"
+  },
+  {
+    "firm": "John drysdale (Postcode: KY13 9HN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000lAGY4AAO",
+    "ref_number": "677139",
+    "status": "Authorised"
+  },
+  {
+    "firm": "kinross golf club ltd (Postcode: KY13 8EU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000kgz8TAAQ",
+    "ref_number": "673805",
+    "status": "Authorised"
+  },
+  {
+    "firm": "D H & M Edwards (Postcode: KY12 9AX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000kgS3pAAE",
+    "trading_names": "Abbey Cars,Glen Motors",
+    "ref_number": "673121",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Brownhills Car Sales (Postcode: KY16 8PL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000j2nJhAAI",
+    "trading_names": "Brownhills Garage",
+    "ref_number": "667881",
+    "status": "Authorised"
+  },
+  {
+    "firm": "R. SIMPSON MOTORS LTD. (Postcode: KY12 9AS) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000j2A4eAAE",
+    "trading_names": "Simpson Motors",
+    "ref_number": "667116",
+    "status": "Authorised"
+  },
+  {
+    "firm": "BURNSIDE MOTORS (FIFE) LIMITED (Postcode: KY12 7PN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000iC8ETAA0",
+    "trading_names": "john will motors",
+    "ref_number": "665443",
+    "status": "Authorised"
+  },
+  {
+    "firm": "CARNEGIE CARS LTD. (Postcode: KY12 9EG) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h6gu0AAA",
+    "ref_number": "660676",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Richard John Finnie (Postcode: KY15 5HY) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h5DhfAAE",
+    "trading_names": "www.richardjfinnie.com",
+    "ref_number": "659284",
+    "status": "Authorised"
+  },
+  {
+    "firm": "east port garage (sales) limited (Postcode: KY12 7QX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h4U59AAE",
+    "ref_number": "658174",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Donald McLeod Maguire (Postcode: KY13 9HN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h4834AAA",
+    "trading_names": "D M Finance",
+    "ref_number": "657501",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Mark Bexfield (Postcode: KY13 9XB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h3wpgAAA",
+    "trading_names": "MB Cars",
+    "ref_number": "657078",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Orwell Motors (Postcode: KY12 9AR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h3mQpAAI",
+    "ref_number": "656626",
+    "status": "Authorised"
+  },
+  {
+    "firm": "T D Armstrong Financial Planning Ltd (Postcode: KY12 7JG) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000WeEakAAF",
+    "trading_names": "T D Armstrong,T D Armstrong Financial Planning Online",
+    "ref_number": "625316",
+    "status": "Authorised"
+  },
+  {
+    "firm": "J B Transport (Scotland) Limited (Postcode: KY13 8BD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000RwympAAB",
+    "trading_names": "Mac Tools",
+    "ref_number": "621807",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Kingdom Investments Management Limited (Postcode: KY11 8PB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMjvcAAD",
+    "trading_names": "Kingdom Investments",
+    "ref_number": "587620",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Tayside Financial Planning Limited (Postcode: KY16 8YH) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMifrAAD",
+    "ref_number": "609364",
+    "status": "Authorised"
+  },
+  {
+    "firm": "R&H FUND SERVICES (UK) LIMITED (Postcode: KY11 8UU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MgGCMAA3",
+    "trading_names": "Iona Fund Services Ltd",
+    "ref_number": "537832",
+    "status": "Authorised"
+  },
+  {
+    "firm": "BCS Hendricks Ltd (Postcode: KY15 5TD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfnKiAAJ",
+    "trading_names": "Hendricks Agricultural & Estate Division,Balmoral Cockburn Sherret Ltd,Hendricks Brokers,Hendricks Insurance",
+    "ref_number": "460973",
+    "status": "Authorised"
+  },
+  {
+    "firm": "The Morgan Law Partnership (Postcode: KY12 7JE) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfhdmAAB",
+    "trading_names": "Morgans",
+    "ref_number": "427236",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Abacus Financial Planning Consultants Ltd (Postcode: KY12 0XJ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfOvEAAV",
+    "ref_number": "232121",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Kengus Limited (Postcode: KY16 9QD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfGKXAA3",
+    "trading_names": "Sinclair Osborne Financial Services Limited",
+    "ref_number": "136936",
+    "status": "Authorised"
+  },
+  {
+    "firm": "light aesthetics ltd (Postcode: KY12 8HT) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003TzR0qAAF",
+    "ref_number": "755680",
+    "status": "Authorised"
+  },
+  {
+    "firm": "PARK AVENUE DENTAL PRACTICE LTD (Postcode: KY12 7HX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002t00JsAAI",
+    "ref_number": "730622",
+    "status": "Authorised"
+  },
+  {
+    "firm": "j&c kirkaldy (Postcode: KY16 8NN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002e8WODAA2",
+    "trading_names": "Cairnsmill Caravan Park",
+    "ref_number": "728611",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Clayton Caravan Park Limited (Postcode: KY16 9YB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002e8IMNAA2",
+    "trading_names": "Clayton Caravans Limited",
+    "ref_number": "728505",
+    "status": "Authorised"
+  },
+  {
+    "firm": "ST ANDREWS ORTHODONTICS LIMITED (Postcode: KY16 8NJ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002NK6yEAAT",
+    "ref_number": "727934",
+    "status": "Authorised"
+  },
+  {
+    "firm": "GENTLE DENTAL CARE LTD (Postcode: KY16 9QW) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002NJQLMAA5",
+    "ref_number": "727523",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Alexander Clearie Dick (Postcode: KY12 9TL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b0000015ngsTAAQ",
+    "trading_names": "Village Cars Saline",
+    "ref_number": "713399",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Dairsie Autopoint (Postcode: KY15 4SR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000pkskNAAQ",
+    "trading_names": "Hains Caravan Sales,Adventure Campervan Hire,Fantastic Campervans,Brian Hain Car Sales",
+    "ref_number": "703512",
+    "status": "Authorised"
+  },
+  {
+    "firm": "LOGE LIMITED (Postcode: KY16 0UB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000nyWSvAAM",
+    "trading_names": "Stoveco",
+    "ref_number": "689160",
+    "status": "Authorised"
+  },
+  {
+    "firm": "BLACHERE ILLUMINATION UK LIMITED (Postcode: KY15 7LB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000n2DWVAA2",
+    "ref_number": "683238",
+    "status": "Authorised"
+  },
+  {
+    "firm": "K G MUSIC LIMITED (Postcode: KY12 7SD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000m6RJpAAM",
+    "trading_names": "Kennys Music",
+    "ref_number": "680119",
+    "status": "Authorised"
+  },
+  {
+    "firm": "McLeod Home Solutions Ltd (Postcode: KY11 9JN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000lAicDAAS",
+    "ref_number": "677435",
+    "status": "Authorised"
+  },
+  {
+    "firm": "St Andrews Dental Care and Implant Clinic Limited (Postcode: KY16 9XB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000lAdSoAAK",
+    "ref_number": "677353",
+    "status": "Authorised"
+  },
+  {
+    "firm": "East Neuk Campervans Ltd. (Postcode: KY10 3JS) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000kgKe9AAE",
+    "trading_names": "East Neuk Motorhomes,East Neuk Commercials,Fifer Touring,East Neuk Caravans,East Neuk Car Sales",
+    "ref_number": "672983",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Walker Motors Limited (Postcode: KY15 4SX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000kdqxbAAA",
+    "trading_names": "Fife Mitsubishi,Fife Hyundai",
+    "ref_number": "672006",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Fife Tractors Limited (Postcode: KY15 5DU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000k4FRRAA2",
+    "ref_number": "671883",
+    "status": "Authorised"
+  },
+  {
+    "firm": "SRJ (Scotland) Limited (Postcode: KY11 2UU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000k2dSeAAI",
+    "trading_names": "SRJ,Murray Blinds,SRJ Windows,SRJ Windows and Conservatories",
+    "ref_number": "670637",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Condies Business Recovery and Insolvency Limited (Postcode: KY12 7NZ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000k2cbMAAQ",
+    "ref_number": "670605",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Cupar Motorcycles Limited (Postcode: KY15 4AW) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000j3VUFAA2",
+    "trading_names": "Perth Motorcycles,Kirkcaldy Kawasaki",
+    "ref_number": "668563",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Robert Black & Son (Postcode: KY11 1LN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000j2AgRAAU",
+    "ref_number": "667138",
+    "status": "Authorised"
+  },
+  {
+    "firm": "David James Young (Postcode: KY11 4RB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000j1zdqAAA",
+    "trading_names": "Kingdoms Cars Dunfermline,Kingdom Cars,www.kingdomcarsdunfermline.co.uk",
+    "ref_number": "666836",
+    "status": "Authorised"
+  },
+  {
+    "firm": "John Healy (Postcode: KY12 9es) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000iAg7tAAC",
+    "trading_names": "Dunfermline Motors,Budget Car Sales,Dunfermline Motor Co",
+    "ref_number": "663993",
+    "status": "Authorised"
+  },
+  {
+    "firm": "PVG (Fife) Limited (Postcode: KY16 8NJ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h4yosAAA",
+    "trading_names": "Provost Vet Group",
+    "ref_number": "659006",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Martin Fraser Blackadder (Postcode: KY12 9HD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h3w22AAA",
+    "trading_names": "Saline Motors,SM Cars & Commercials",
+    "ref_number": "657020",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Charles Walker (Postcode: KY12 8QU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h3uMhAAI",
+    "trading_names": "MVM PRESTIGE,Manse Vehicle Management",
+    "ref_number": "656899",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Crail Golfing Society (Postcode: KY10 3XN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000dlXgQAAU",
+    "ref_number": "649154",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Total Beverage Solutions Ltd (Postcode: KY11 8UT) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000U0z38AAB",
+    "ref_number": "623091",
+    "status": "Authorised"
+  },
+  {
+    "firm": "MELDRUMS LTD (Postcode: KY15 4RB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000Rx7XjAAJ",
+    "ref_number": "621924",
+    "status": "Authorised"
+  },
+  {
+    "firm": "More Than Mortgages Limited (Postcode: KY13 9XT) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMgSSAA1",
+    "ref_number": "572521",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Invest India Limited (Postcode: KY11 8EP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMciGAAT",
+    "trading_names": "Invest India Financial services,Vibrant Financial services",
+    "ref_number": "562377",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Donald Maclnnes (Postcode: KY12 0SR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMYhUAAX",
+    "trading_names": "Personal Finance Solutions",
+    "ref_number": "535955",
+    "status": "Authorised"
+  },
+  {
+    "firm": "JLS Associates Independent Financial Advisers Ltd (Postcode: KY13 9YQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfbADAAZ",
+    "trading_names": "JLS Associates",
+    "ref_number": "441083",
+    "status": "Authorised"
+  },
+  {
+    "firm": "AJR Financial Services (Scotland) Ltd (Postcode: KY12 7JB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfVnQAAV",
+    "ref_number": "229466",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Regents Estates & Mortgages Ltd (Postcode: KY11 9NH) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfSMhAAN",
+    "ref_number": "304237",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Flear & Thomson Ltd (Postcode: KY12 8AN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfO6rAAF",
+    "ref_number": "309795",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Dunfermline & District Credit Union Limited (Postcode: KY11 2PZ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfM2uAAF",
+    "trading_names": "Abbeyview Credit Union Limited",
+    "ref_number": "213776",
+    "status": "Authorised"
+  },
+  {
+    "firm": "North East Fife Credit Union (Postcode: KY15 4HA) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfLhOAAV",
+    "trading_names": "Cupar Credit Union Limited",
+    "ref_number": "213980",
+    "status": "Authorised"
+  },
+  {
+    "firm": "James Hair & Co (Postcode: KY15 4BY) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfEvDAAV",
+    "ref_number": "104766",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Thomson Cooper (Postcode: KY11 8PB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfEv6AAF",
+    "ref_number": "104673",
+    "status": "Authorised"
+  },
+  {
+    "firm": "MacBeth Currie (Postcode: KY12 7DD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfEENAA3",
+    "trading_names": "Money Shop,MacBeth Currie & Co.,Macbeth Mortgages",
+    "ref_number": "113121",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Kingdom Insurance Services Ltd (Postcode: KY11 1LN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfAzGAAV",
+    "ref_number": "308242",
+    "status": "Authorised"
+  }
+]

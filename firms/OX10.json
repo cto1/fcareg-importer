@@ -1,0 +1,47 @@
+[
+  {
+    "firm": "Fondera Limited (Postcode: OX10 7LN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000l7k90AAA",
+    "ref_number": "675260",
+    "status": "Authorised"
+  },
+  {
+    "firm": "R F Hayden Limited (Postcode: OX10 7BG) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000m6SdQAAU",
+    "ref_number": "680679",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Lee Thomas (Postcode: OX10 0AL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000fUEltAAG",
+    "trading_names": "Rides on Air",
+    "ref_number": "653470",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Force Cars Limited (Postcode: OX10 9FE) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000pitF9AAI",
+    "trading_names": "Force Vans",
+    "ref_number": "702903",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Connect Vending Ltd (Postcode: OX10 7LN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000p1ftsAAA",
+    "ref_number": "698397",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Lister Wilder Limited (Postcode: OX10 8FG) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000p1ML6AAM",
+    "ref_number": "697799",
+    "status": "Authorised"
+  },
+  {
+    "firm": "John Dixon De Lacy Leacey (Postcode: OX10 7LY) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002zxyKSAAY",
+    "trading_names": "JLM Car Sales",
+    "ref_number": "731218",
+    "status": "Authorised"
+  }
+]
