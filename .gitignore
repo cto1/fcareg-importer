@@ -2,3 +2,5 @@ node_modules
 mochaTest.log
 credentials.js
 output.json
+firm_details
+firm_links
