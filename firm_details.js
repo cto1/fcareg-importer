@@ -14,36 +14,25 @@ var x = Xray({
       return typeof value === 'string' && value.indexOf('individual') !== -1 ? '' : value
     }
   }
-});
+}).timeout(3000).delay(1000);
 console.log()
 
-// read postcodes
-var fs = require('fs');
-fs.readFile( './postcodes/postcodesA.csv' , function read(err, array) {
-		if (err) {
-			throw err;
-		}
-		array = array.toString().split("\n");
-		for(i in array) {
-				console.log(i + ':' + array[i]);
-		}
+// get file names
+var fs = require('graceful-fs');
+var gf = require ('./get_files.js');
+var files = gf.getFiles('./firm_links_part1');
+console.log(files);
 
-		// open file with links
-		for (postcode in array) {
-				var pc = array[postcode].trim();
-				var file = './firm_links/' + pc + '.json';
-				fs.readFile(file, function read_links(err, firms) {
-					if (err) {
-								throw err;
-							}
-					firms = JSON.parse(firms);
-					console.log(pc);
-					var start = new Date().getTime();
+for (i in files){
+  var file = './firm_links/' +files[i];
+  var firms = fs.readFileSync(file);
+	firms = JSON.parse(firms);
+  var start = new Date().getTime();
 					// read links
 					for (link in firms) {
 							console.log(link +'-'+firms[link].firm +':'+firms[link].fca_link);
-							var firm_file = ('./firm_details/'+ firms[link].ref_number.trim() + '.json').replace(/ /g,'');
-							console.log(firm_file);
+							var firm_file = ('./firm_details_part1/'+ firms[link].ref_number.trim() + '.json').replace(/ /g,'');
+							//console.log(firm_file);
 
 							var url = firms[link].fca_link;
 							// get data
@@ -71,4 +60,5 @@ fs.readFile( './postcodes/postcodesA.csv' , function read(err, array) {
 						}
 		var end = new Date().getTime();
 		console.log ('Run time: ' + (end - start) + 'ms');
-})}});
+//})}
+};
