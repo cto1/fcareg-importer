@@ -48,7 +48,7 @@ var search = array[postcode].trim();
 console.log(search);
 var url = url_base + search + token;
 console.log(url);
-var file = './firm_links/'+search+'.json';
+var file = './firm_links_test/'+search+'.json';
 
 // get data 
 x(url, 'tbody tr', [{

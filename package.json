@@ -10,7 +10,9 @@
     "request": "^2.74.0",
     "x-ray": "^2.3.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^3.9.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

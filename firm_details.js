@@ -20,18 +20,18 @@ console.log()
 // get file names
 var fs = require('graceful-fs');
 var gf = require ('./get_files.js');
-var files = gf.getFiles('./firm_links_part1');
+var files = gf.getFiles('./firm_links_test');
 console.log(files);
 
 for (i in files){
-  var file = './firm_links/' +files[i];
+  var file = './firm_links_test/' +files[i];
   var firms = fs.readFileSync(file);
 	firms = JSON.parse(firms);
   var start = new Date().getTime();
 					// read links
 					for (link in firms) {
 							console.log(link +'-'+firms[link].firm +':'+firms[link].fca_link);
-							var firm_file = ('./firm_details_part1/'+ firms[link].ref_number.trim() + '.json').replace(/ /g,'');
+							var firm_file = ('./firm_details_test/'+ firms[link].ref_number.trim() + '.json').replace(/ /g,'');
 							//console.log(firm_file);
 
 							var url = firms[link].fca_link;
