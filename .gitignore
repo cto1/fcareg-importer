@@ -1,10 +1,2 @@
 node_modules
-mochaTest.log
-credentials.js
-output.json
-firm_details
-firm_links
-firm_details_part1
-firm_links_part1
-firm_details_test
-firm_links_test
+postcodes-search
