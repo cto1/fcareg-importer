@@ -1,7 +1,7 @@
 const fs = require('fs');
 const cheerio = require('cheerio');
 
-var fileNames = fs.readdirSync('./postcodes-search/');
+var fileNames = fs.readdirSync('./2_postcodes_search/');
 console.log(fileNames);
 
 var  $;
@@ -11,7 +11,7 @@ var asyncExtract = (fileNames) => {
   return new Promise((resolve, reject) => {
     console.log('in Promise');
     for (i in fileNames) {
-      $ = cheerio.load(fs.readFileSync(`./postcodes-search/${fileNames[i]}`));
+      $ = cheerio.load(fs.readFileSync(`./2_postcodes_search/${fileNames[i]}`));
       $('tbody tr td a').each( (index, element) => {
           linksArray.push($(element).attr('href'));
 

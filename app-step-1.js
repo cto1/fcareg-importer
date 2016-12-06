@@ -1,7 +1,7 @@
 const request = require('request');
 const fs = require('fs');
 
-var searchArray = fs.readFileSync('./postcodes/test.csv').toString().split(/\n/);
+var searchArray = fs.readFileSync('./1_postcodes/test.csv').toString().split(/\n/);
 var searchPostcodes = searchArray.map( term => {
     return term.replace('\r','');
 });
@@ -15,7 +15,7 @@ var searchPostcode = '';
 for (element in searchPostcodes) {
   searchPostcode = searchPostcodes[element];
   searchUrl = `${urlBase}&search=${searchPostcode}`;
-  saveFile = `./postcodes-search/${searchPostcode}.html`;
+  saveFile = `./2_postcodes_search/${searchPostcode}.html`;
   console.log('Url ', searchUrl, ' in file ', saveFile);
   request(searchUrl).pipe(fs.createWriteStream(saveFile));
 };
