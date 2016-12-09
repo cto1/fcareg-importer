@@ -1,0 +1,36 @@
+[
+  {
+    "firm": "Kinetic Insurance Brokers Limited (Postcode: EC3P 3DQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfNIeAAN",
+    "trading_names": "Kinetic Regional Brokers,Lovat International Limited",
+    "ref_number": "309540",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Aviva International Insurance Limited (Postcode: EC3P 3DQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfJJVAA3",
+    "trading_names": "Commercial Union Assurance Company Limited,Commercial Union Assurance Company plc,CGU International Insurance Plc",
+    "ref_number": "202082",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Hamilton Underwriting Ltd (Postcode: EC3P 3DQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfyMFAAZ",
+    "trading_names": "Sportscover Underwriting Ltd,Hamilton at Lloyd¿s",
+    "ref_number": "488395",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Aviva Employment Services Limited (Postcode: EC3P 3DQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003Jgb3pAAB",
+    "ref_number": "738649",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Aviva UK Digital Limited (Postcode: EC3P 3DQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002e9yaHAAQ",
+    "trading_names": "Aviva Digital,Aviva UK Digital",
+    "ref_number": "728985",
+    "status": "Authorised"
+  }
+]

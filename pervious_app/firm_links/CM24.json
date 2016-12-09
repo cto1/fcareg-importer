@@ -1,0 +1,40 @@
+[
+  {
+    "firm": "Peartree Wealth Management Ltd (Postcode: CM24 8LN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfRsMAAV",
+    "ref_number": "224273",
+    "status": "Authorised"
+  },
+  {
+    "firm": "KMD Private Wealth Management LLP (Postcode: CM24 8JG) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfpDPAAZ",
+    "ref_number": "484881",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Geneva Motors (Postcode: CM24 8BZ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000fUFsOAAW",
+    "ref_number": "653466",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Antony Fells (Postcode: CM24 8BX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000fTGWtAAO",
+    "trading_names": "Autopoint Stansted",
+    "ref_number": "653113",
+    "status": "Authorised"
+  },
+  {
+    "firm": "iSpan Limited (Postcode: CM24 8TS) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000j2PNWAA2",
+    "ref_number": "667451",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Cradon Investments Ltd (Postcode: CM24 8EL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfPyWAAV",
+    "trading_names": "Cradon Mortgages",
+    "ref_number": "300505",
+    "status": "Authorised"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "firm": "John Kerr (Postcode: L12 2AH) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfFJ3AAN",
+    "ref_number": "101330",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Marx Insurance Services Ltd (Postcode: L12 8SN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfWmoAAF",
+    "trading_names": "Marx Insurance,Creamer Liverpool Ltd,Duffy Moore Insurance Services Limited",
+    "ref_number": "308636",
+    "status": "Authorised"
+  },
+  {
+    "firm": "ALAN O'CONNOR (Postcode: L12 0HX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000picCGAAY",
+    "ref_number": "702610",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Barbara Evans (Postcode: L12 0AB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000m4naVAAQ",
+    "trading_names": "Cunningham Finance",
+    "ref_number": "678784",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Ash Loans Limited (Postcode: L12 0NL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000pidLfAAI",
+    "ref_number": "702687",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Jones S Limited (Postcode: L12 0PB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000picwOAAQ",
+    "trading_names": "Snap-on Diagnostics,Snap-on Tools",
+    "ref_number": "702641",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Standard Finance (Postcode: L12 9HX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000nTcR7AAK",
+    "ref_number": "688035",
+    "status": "Authorised"
+  }
+]

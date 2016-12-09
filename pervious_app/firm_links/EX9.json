@@ -1,0 +1,28 @@
+[
+  {
+    "firm": "C.T. STADDON LIMITED (Postcode: EX9 6LQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000nQP9PAAW",
+    "ref_number": "684375",
+    "status": "Authorised"
+  },
+  {
+    "firm": "FWSC (Ladram) Limited (Postcode: EX9 7BX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003LGmP3AAL",
+    "trading_names": "Castle Brake,Castle Brake Holiday Park,Ladram Bay,Ladram Bay Holiday Park",
+    "ref_number": "743157",
+    "status": "Authorised"
+  },
+  {
+    "firm": "East Budleigh Garage (Postcode: EX9 7DL) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000j4fueAAA",
+    "ref_number": "669567",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Olivelle & Associates Limited (Postcode: EX9 6RW) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000k2zBWAAY",
+    "trading_names": "BSDP,Budleigh Salterton Dental Practice,Budleigh Salterton Dental Practice & Implant Centre",
+    "ref_number": "670867",
+    "status": "Authorised"
+  }
+]

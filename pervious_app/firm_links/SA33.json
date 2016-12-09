@@ -1,0 +1,40 @@
+[
+  {
+    "firm": "Jones Clive Limited (Postcode: SA33 4AJ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003F7ME3AAN",
+    "trading_names": "Snap-on,Snap-on Diagnostics,Snap-on Tools",
+    "ref_number": "733574",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Derwydd Garage Limited (Postcode: SA33 6TP) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000o8w0dAAA",
+    "ref_number": "691012",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Trevor Wyn Jones (Postcode: SA33 4LR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000m4gGaAAI",
+    "trading_names": "Wyns Car Sales",
+    "ref_number": "678682",
+    "status": "Authorised"
+  },
+  {
+    "firm": "CAFE FAIR TRADE LTD (Postcode: SA33 6AE) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002NIxfiAAD",
+    "ref_number": "727322",
+    "status": "Authorised"
+  },
+  {
+    "firm": "A & M Engineering (Postcode: SA33 4LX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000m6cKjAAI",
+    "ref_number": "680778",
+    "status": "Authorised"
+  },
+  {
+    "firm": "JOHN HOWELLS PLANT SALES LIMITED (Postcode: SA33 6NR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000gwaOvAAI",
+    "ref_number": "676933",
+    "status": "Authorised"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "firm": "C Hoare & Co (Postcode: EC4P 4DQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfFMxAAN",
+    "ref_number": "122093",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Old Mutual Global Investors (UK) Limited (Postcode: EC4P 4WR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfGq1AAF",
+    "trading_names": "Old Mutual Global Investors,Old Mutual Asset Managers (UK) Limited,Providence Capitol Portfolio Managers Ltd,Old Mutual International Asset Managers (UK) Ltd",
+    "ref_number": "171847",
+    "status": "Authorised"
+  },
+  {
+    "firm": "N M Rothschild Europe Partnership (Postcode: EC4P 4DU) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfI1mAAF",
+    "ref_number": "188587",
+    "status": "Authorised"
+  }
+]

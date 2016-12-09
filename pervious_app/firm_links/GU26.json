@@ -1,0 +1,60 @@
+[
+  {
+    "firm": "Inter-UK Financial Services Limited (Postcode: GU26 6PD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfJh2AAF",
+    "ref_number": "198003",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Greysmere Associates Limited (Postcode: GU26 6NR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfZ55AAF",
+    "ref_number": "429232",
+    "status": "Authorised"
+  },
+  {
+    "firm": "e-insurance Trading Ltd (Postcode: GU26 6TN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMPRwAAP",
+    "trading_names": "MyInsurance,InsuranceBazaar,MyInsuranceQuotes",
+    "ref_number": "491149",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Emma Clayton-Jones Limited (Postcode: GU26 6TD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000j2aGKAAY",
+    "trading_names": "No. 5 Dental Care",
+    "ref_number": "667681",
+    "status": "Authorised"
+  },
+  {
+    "firm": "ReEnergise Finance Limited (Postcode: GU26 6LB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000YwIjxAAF",
+    "trading_names": "SmartEnergy Finance,EcoVectis Finance",
+    "ref_number": "627981",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Charles Dickson Financial Planning LLP (Postcode: GU26 6PH) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMTxgAAH",
+    "ref_number": "515015",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Capital Lease Solutions Ltd (Postcode: GU26 6SG) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002NHvquAAD",
+    "ref_number": "726726",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Harrison Gray Limited (Postcode: GU26 6PQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMepQAAT",
+    "trading_names": "Dental Money Management,Surrey Global Investors",
+    "ref_number": "544138",
+    "status": "Authorised"
+  },
+  {
+    "firm": "TAMED EARTH BIKES LIMITED (Postcode: GU26 6AB) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000001Ej1INAAZ",
+    "ref_number": "715662",
+    "status": "Authorised"
+  }
+]

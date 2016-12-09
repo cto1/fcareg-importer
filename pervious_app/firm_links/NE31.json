@@ -1,0 +1,22 @@
+[
+  {
+    "firm": "Hanson Financial Partners Limited (Postcode: NE31 2EX) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMTQSAA5",
+    "trading_names": "Hanson Wealth Management,Police Federation Mortgages,Hanson Medical & Professional,Hanson Online",
+    "ref_number": "529347",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Abacus IFA Limited (Postcode: NE31 2EQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000Mfd6RAAR",
+    "ref_number": "453157",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Shield Vehicle Hire (Postcode: NE31 1UD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000l8lGfAAI",
+    "trading_names": "Shield Motor Company",
+    "ref_number": "676130",
+    "status": "Authorised"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "firm": "ISACO Limited (Postcode: OL5 0NN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMS1RAAX",
+    "ref_number": "525147",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Glenn Walter McKie (Postcode: OL5 9BQ) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000h3iq2AAA",
+    "trading_names": "MCK Motors",
+    "ref_number": "656491",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Neil Watson and Daniel Winston (Postcode: OL5 0PD) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000kdp7yAAA",
+    "trading_names": "Mossley Dental Care,Watson & Winston at Mossley Dental Care",
+    "ref_number": "671930",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Steve Bunning and Sheila Bunning t/a Irwell Motors (Postcode: OL5 9QN) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000g6hm0AAA",
+    "trading_names": "Irwell Motors,Steve Bunning and Sheila Bunning,Stalybridge Motors",
+    "ref_number": "653817",
+    "status": "Authorised"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "firm": "Paul McGookin (Postcode: BT22 2DR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000003RDAVCAA5",
+    "trading_names": "Coastal Cars",
+    "ref_number": "751730",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Sandycove Holiday Homes Ltd (Postcode: BT22 2LA) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000002NHtceAAD",
+    "ref_number": "726698",
+    "status": "Authorised"
+  },
+  {
+    "firm": "McClune Financial Services Limited (Postcode: BT22 2TR) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MgH1IAAV",
+    "ref_number": "522024",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Portaferry Credit Union Limited (Postcode: BT22 1LW) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMdRCAA1",
+    "ref_number": "574430",
+    "status": "Authorised"
+  },
+  {
+    "firm": "Greyabbey Credit Union Limited (Postcode: BT22 2NF) ",
+    "fca_link": "https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000NMd0jAAD",
+    "ref_number": "574319",
+    "status": "Authorised"
+  }
+]
