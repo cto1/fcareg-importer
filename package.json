@@ -19,6 +19,7 @@
   "dependencies": {
     "axios": "^0.15.3",
     "cheerio": "^0.22.0",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "sync-request": "^3.0.1"
   }
 }
